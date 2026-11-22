@@ -1,0 +1,4 @@
+Models from kayquer/kit-cidade-lowpoly
+Source: https://github.com/kayquer/kit-cidade-lowpoly
+License: Creative Commons Zero v1.0 Universal (CC0-1.0) — public domain
+See https://github.com/kayquer/kit-cidade-lowpoly/blob/main/LICENSE

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="128" viewBox="0 0 96 128">
+  <!-- World objective marker (pivot at bottom tip: 48,120). Tint with modulate for side missions. -->
+  <defs>
+    <linearGradient id="d" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd27a"/>
+      <stop offset="1" stop-color="#e08a1e"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(48 48)">
+    <rect x="-38" y="-38" width="76" height="76" rx="10" transform="rotate(45)" fill="#f2a541" fill-opacity="0.08"/>
+    <rect x="-33" y="-33" width="66" height="66" rx="9" transform="rotate(45)" fill="#f2a541" fill-opacity="0.14"/>
+    <rect x="-27" y="-27" width="54" height="54" rx="7" transform="rotate(45)" fill="url(#d)" stroke="#fff4dc" stroke-width="2.5"/>
+    <rect x="-17" y="-17" width="34" height="34" rx="4" transform="rotate(45)" fill="#0b0f14" fill-opacity="0.82"/>
+    <circle r="6" fill="#ffd27a"/>
+  </g>
+  <path d="M40 92 L48 120 L56 92 Z" fill="#f2a541"/>
+  <ellipse cx="48" cy="122" rx="10" ry="3" fill="#000000" fill-opacity="0.35"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="320" viewBox="0 0 512 320">
+  <!-- Glass panel. Use as a 9-slice StyleBoxTexture, margins 40 px on every side. -->
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b232d" stop-opacity="0.80"/>
+      <stop offset="1" stop-color="#06080b" stop-opacity="0.70"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2a541" stop-opacity="0.95"/>
+      <stop offset="0.3" stop-color="#f2a541" stop-opacity="0.12"/>
+      <stop offset="0.7" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#f2a541" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="504" height="312" rx="16" fill="url(#fill)"/>
+  <path d="M20 4 H492 A16 16 0 0 1 508 20 V88 H4 V20 A16 16 0 0 1 20 4 Z" fill="url(#sheen)"/>
+  <rect x="4.75" y="4.75" width="502.5" height="310.5" rx="15.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <rect x="9" y="9" width="494" height="302" rx="11" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+  <g fill="none" stroke="#f2a541" stroke-width="3" stroke-linecap="round">
+    <path d="M14 36 V22 A8 8 0 0 1 22 14 H36"/>
+    <path d="M476 14 H490 A8 8 0 0 1 498 22 V36"/>
+    <path d="M498 284 V298 A8 8 0 0 1 490 306 H476" stroke-opacity="0.55"/>
+    <path d="M36 306 H22 A8 8 0 0 1 14 298 V284" stroke-opacity="0.55"/>
+  </g>
+</svg>

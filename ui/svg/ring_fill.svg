@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <!-- Ring fill (TextureProgressBar.texture_progress, FILL_CLOCKWISE). -->
+  <defs>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd27a"/>
+      <stop offset="0.6" stop-color="#f2a541"/>
+      <stop offset="1" stop-color="#e5484d"/>
+    </linearGradient>
+  </defs>
+  <circle cx="70" cy="70" r="54" fill="none" stroke="url(#r)" stroke-width="10"/>
+  <circle cx="70" cy="70" r="49" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1.5"/>
+</svg>

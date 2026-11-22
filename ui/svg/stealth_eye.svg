@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="80" viewBox="0 0 128 80">
+  <!-- Detection indicator. Tint: teal = hidden, amber = suspicious, red = seen. Scale the iris group to animate. -->
+  <defs>
+    <radialGradient id="iris" cx="0.5" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#a8fff4"/>
+      <stop offset="0.55" stop-color="#2ec4b6"/>
+      <stop offset="1" stop-color="#0b4d48"/>
+    </radialGradient>
+  </defs>
+  <path d="M6 40 Q64 -10 122 40 Q64 90 6 40 Z" fill="#2ec4b6" fill-opacity="0.12"/>
+  <path d="M12 40 Q64 0 116 40 Q64 80 12 40 Z" fill="#0b0f14" fill-opacity="0.8" stroke="#2ec4b6" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="64" cy="40" r="19" fill="url(#iris)"/>
+  <circle cx="64" cy="40" r="7.5" fill="#031413"/>
+  <circle cx="58" cy="34" r="3.2" fill="#ffffff" fill-opacity="0.85"/>
+</svg>

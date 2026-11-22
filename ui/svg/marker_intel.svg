@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="112" viewBox="0 0 96 112">
+  <!-- Intel / informant marker: a folded dossier. -->
+  <circle cx="48" cy="48" r="42" fill="#8b5cf6" fill-opacity="0.12"/>
+  <path d="M22 20 H58 L74 36 V82 H22 Z" fill="#c4b5fd" stroke="#f1ecff" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M58 20 V36 H74" fill="#a78bfa" stroke="#f1ecff" stroke-width="2.5" stroke-linejoin="round"/>
+  <g stroke="#2e1765" stroke-width="4" stroke-linecap="round">
+    <path d="M32 46 H64 M32 56 H64 M32 66 H52"/>
+  </g>
+  <path d="M40 90 L48 106 L56 90 Z" fill="#c4b5fd"/>
+</svg>

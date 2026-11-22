@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="40" viewBox="0 0 420 40">
+  <!-- stealth fill (TextureProgressBar.texture_progress). Same 420x40 frame as bar_under.svg. -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b4d48"/>
+      <stop offset="0.75" stop-color="#2ec4b6"/>
+      <stop offset="1" stop-color="#a8fff4"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="c"><path d="M12 10 H410 L408 30 H10 Z"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="0" y="10" width="420" height="20" fill="url(#g)"/>
+    <rect x="0" y="10" width="420" height="20" fill="url(#hl)"/>
+    <g stroke="#ffffff" stroke-opacity="0.10" stroke-width="3">
+      <path d="M20 34 L32 6 M44 34 L56 6 M68 34 L80 6 M92 34 L104 6 M116 34 L128 6 M140 34 L152 6 M164 34 L176 6 M188 34 L200 6 M212 34 L224 6 M236 34 L248 6 M260 34 L272 6 M284 34 L296 6 M308 34 L320 6 M332 34 L344 6 M356 34 L368 6 M380 34 L392 6 M404 34 L416 6"/>
+    </g>
+    <rect x="404" y="10" width="6" height="20" fill="#a8fff4" fill-opacity="0.9"/>
+  </g>
+</svg>

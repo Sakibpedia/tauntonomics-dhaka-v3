@@ -1,0 +1,4 @@
+CC0 character models
+55 low-poly people: https://github.com/kayquer/scitizia-pessoas-64 (CC0-1.0)
+Animated humanoid rigs: https://github.com/NoLimitNexus/game-models (Quaternius/KayKit CC0)
+Per-model provenance in manifest.json

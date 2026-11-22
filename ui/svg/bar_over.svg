@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="40" viewBox="0 0 420 40">
+  <!-- Bar frame with 10% ticks and glass glint (TextureProgressBar.texture_over). -->
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f2a541" stop-opacity="0.9"/>
+      <stop offset="0.4" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.32"/>
+    </linearGradient>
+  </defs>
+  <path d="M10 6 H414 L410 34 H6 Z" fill="none" stroke="url(#f)" stroke-width="1.5" stroke-linejoin="round"/>
+  <g stroke="#000000" stroke-opacity="0.55" stroke-width="2">
+    <path d="M51 10 V30 M91 10 V30 M131 10 V30 M171 10 V30 M211 10 V30 M251 10 V30 M291 10 V30 M331 10 V30 M371 10 V30"/>
+  </g>
+  <path d="M14 11 H404" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1"/>
+  <path d="M2 2 H22 M2 2 V12" stroke="#f2a541" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M418 38 H398 M418 38 V28" stroke="#f2a541" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

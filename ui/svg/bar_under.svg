@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="40" viewBox="0 0 420 40">
+  <!-- Status bar track (TextureProgressBar.texture_under). 420x40, fill region x 6..414, y 10..30. -->
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#11161c" stop-opacity="0.62"/>
+    </linearGradient>
+  </defs>
+  <path d="M10 6 H414 L410 34 H6 Z" fill="url(#t)"/>
+  <path d="M12 10 H410 L408 30 H10 Z" fill="#ffffff" fill-opacity="0.04"/>
+</svg>

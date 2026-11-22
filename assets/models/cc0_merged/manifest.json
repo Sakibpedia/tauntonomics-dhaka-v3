@@ -1,0 +1,1290 @@
+[
+ {
+  "file": "agua__barragem_subterranea.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__bomba_agua.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__caixa_dagua.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__centro_controle_perdas.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__centro_pesquisa_agua.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__estacao_filtragem.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__estacao_monitoramento.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__eta.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__ete.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__jardim_chuva.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__jardim_flutuante.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__monitor_qualidade_agua.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__poco_artesiano.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__reservatorio.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__usina_dessalinizacao.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "agua__usina_reuso_agua.glb",
+  "source_cat": "agua",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "beira_rio__barco_pesca.glb",
+  "source_cat": "beira_rio",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "beira_rio__boia_rio.glb",
+  "source_cat": "beira_rio",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "beira_rio__canoa.glb",
+  "source_cat": "beira_rio",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "beira_rio__capivara.glb",
+  "source_cat": "beira_rio",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "beira_rio__garca.glb",
+  "source_cat": "beira_rio",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "beira_rio__trapiche.glb",
+  "source_cat": "beira_rio",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "comercial__banco.glb",
+  "source_cat": "comercial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "comercial__escritorio.glb",
+  "source_cat": "comercial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "comercial__hotel.glb",
+  "source_cat": "comercial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "comercial__loja_esquina.glb",
+  "source_cat": "comercial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "comercial__mercado.glb",
+  "source_cat": "comercial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "comercial__posto_recarga.glb",
+  "source_cat": "comercial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "comercial__restaurante.glb",
+  "source_cat": "comercial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "comercial__shopping.glb",
+  "source_cat": "comercial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__biodigestor.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__hidreletrica.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__parque_eolico.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__poste_energia.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__termeletrica.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__usina_biomassa.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__usina_cana.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__usina_carvao.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__usina_mare.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__usina_nuclear.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "energia__usina_solar.glb",
+  "source_cat": "energia",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "industrial__fabrica.glb",
+  "source_cat": "industrial",
+  "scale": 9.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "industrial__galpao.glb",
+  "source_cat": "industrial",
+  "scale": 9.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "industrial__oficina.glb",
+  "source_cat": "industrial",
+  "scale": 9.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "industrial__porto.glb",
+  "source_cat": "industrial",
+  "scale": 9.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__banco_praca.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__barril_chuva.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__bebedouro.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__bicicletario.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__cerca_madeira.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__cisterna.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__hidrante.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__lixeira.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__lixeira_seletiva.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__orelhao.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__parquinho.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__placa_educativa.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__placa_pare.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__ponto_onibus.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__poste_luz.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__poste_solar.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__quiosque.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__semaforo.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__semaforo_pedestre.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "mobiliario__vaso_planta.glb",
+  "source_cat": "mobiliario",
+  "scale": 4.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "parques__ecoparque.glb",
+  "source_cat": "parques",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "parques__parede_verde.glb",
+  "source_cat": "parques",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "parques__parque.glb",
+  "source_cat": "parques",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "parques__parque_linear.glb",
+  "source_cat": "parques",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "parques__telhado_verde.glb",
+  "source_cat": "parques",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__biblioteca.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__bombeiros.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__centro_pesquisa.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__centro_tecnologia.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__escola.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__hospital.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__monumento.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__museu.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__policia.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__posto_saude.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__prefeitura.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "publicos__universidade.glb",
+  "source_cat": "publicos",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residencial__casas_geminadas.glb",
+  "source_cat": "residencial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residencial__casa_simples.glb",
+  "source_cat": "residencial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residencial__casa_sobrado.glb",
+  "source_cat": "residencial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residencial__predio_alto.glb",
+  "source_cat": "residencial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residencial__predio_apartamentos.glb",
+  "source_cat": "residencial",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residuos__aterro_sanitario.glb",
+  "source_cat": "residuos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residuos__cooperativa_reciclagem.glb",
+  "source_cat": "residuos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residuos__patio_compostagem.glb",
+  "source_cat": "residuos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "residuos__ponto_coleta.glb",
+  "source_cat": "residuos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__asfalto_cruzamento.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__asfalto_curva.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__asfalto_faixa_pedestre.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__asfalto_ponta.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__asfalto_reta.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__asfalto_t.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__calcada.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__estacionamento.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__ponte.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__praca.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__terra_curva.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "ruas__terra_reta.glb",
+  "source_cat": "ruas",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__agua.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__areia.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__arvores_mata.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__grama.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__margem_canto.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__margem_reta.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__morro.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__rampa.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "terreno__terra.glb",
+  "source_cat": "terreno",
+  "scale": 8.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "vegetacao__araucaria.glb",
+  "source_cat": "vegetacao",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "vegetacao__arbustos.glb",
+  "source_cat": "vegetacao",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "vegetacao__buriti.glb",
+  "source_cat": "vegetacao",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "vegetacao__composteira.glb",
+  "source_cat": "vegetacao",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "vegetacao__horta.glb",
+  "source_cat": "vegetacao",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "vegetacao__ipe_amarelo.glb",
+  "source_cat": "vegetacao",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "vegetacao__pedras.glb",
+  "source_cat": "vegetacao",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__ambulancia.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__bicicleta.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__caminhao.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__caminhao_bombeiros.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__caminhao_lixo.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__caminhao_pipa.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__carro.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__carro_eletrico.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__onibus.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "veiculos__taxi.glb",
+  "source_cat": "veiculos",
+  "scale": 5.0,
+  "license": "CC0-1.0",
+  "repo": "kayquer/kit-cidade-lowpoly"
+ },
+ {
+  "file": "char__pessoa__bento.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__breno.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__caetano.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__cardim.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__cody.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__dito.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__fiona.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__ines.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__lu.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__lucia.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__marta.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_01.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_02.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_03.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_04.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_05.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_06.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_07.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_08.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_09.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_10.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_11.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_12.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_13.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_14.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_15.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_16.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_17.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_18.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_19.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_20.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_21.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_22.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_23.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__multidao_24.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_h01.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_h02.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_h03.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_h04.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_h05.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_h06.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_h07.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_h08.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_m01.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_m02.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_m03.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_m04.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_m05.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_m06.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_m07.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__piloto_m08.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__rafa.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__rosa.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__tiao.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ },
+ {
+  "file": "char__pessoa__zelia.glb",
+  "source_cat": "character",
+  "scale": 1.0,
+  "license": "CC0-1.0",
+  "repo": "character packs (see cc0_characters/LICENSE.txt)"
+ }
+]

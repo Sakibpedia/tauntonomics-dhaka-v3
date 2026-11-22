@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Key prompt cap; draw the key letter on top in Godot. 9-slice 16 px for wide keys (Space, Shift). -->
+  <defs>
+    <linearGradient id="k" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4efe4"/>
+      <stop offset="1" stop-color="#c9c1b2"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="8" width="56" height="52" rx="10" fill="#6d665c"/>
+  <rect x="4" y="4" width="56" height="50" rx="10" fill="url(#k)"/>
+  <rect x="9" y="8" width="46" height="40" rx="7" fill="#ffffff" fill-opacity="0.35"/>
+  <rect x="4.5" y="4.5" width="55" height="49" rx="9.5" fill="none" stroke="#000000" stroke-opacity="0.25"/>
+</svg>

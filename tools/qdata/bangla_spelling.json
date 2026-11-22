@@ -1,0 +1,686 @@
+{
+ "bank": "bangla_spelling",
+ "count": 20,
+ "items": [
+  {
+   "id": "BCS40-11",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "কোনটি শুদ্ধ বানান?",
+   "options": [
+    "প্রজ্বল",
+    "প্রোজ্জল",
+    "প্রোজ্বল",
+    "প্রোজ্জ্বল"
+   ],
+   "answer": 3,
+   "explain_bn": "প্র + উজ্জ্বল = প্রোজ্জ্বল।",
+   "attack_tag": "আপনার পদবির মতো এই বানানেও একটা 'জ্ব' বাদ পড়েছিল।",
+   "exam": {
+    "code": "BCS40",
+    "name_bn": "৪০তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2019-05-03",
+    "type": "BCS",
+    "question_no": 11
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "1.2",
+    "pdf_page": 19
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS38-1",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "কোন শব্দটি শুদ্ধ বানানে লেখা হয়েছে?",
+   "options": [
+    "শূণ্য",
+    "ত্রিভুজ",
+    "পূন্য",
+    "ভূবন"
+   ],
+   "answer": 1,
+   "explain_bn": "শুদ্ধ রূপগুলো হলো শূন্য, পুণ্য, ভুবন। অপশনে শুধু ত্রিভুজ শুদ্ধ।",
+   "attack_tag": "শূন্য বানানে ণ বসালে শূন্য আর শূন্য থাকে না। আপনার সনদেও তাই।",
+   "exam": {
+    "code": "BCS38",
+    "name_bn": "৩৮তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2017-12-29",
+    "type": "BCS",
+    "question_no": 1
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "17",
+    "pdf_page": 57
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS38-2",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "usage",
+   "prompt": "কোনটিতে অপপ্রয়োগ ঘটেছে?",
+   "options": [
+    "জবাবদিহি",
+    "মিথস্ক্রিয়া",
+    "একত্রিত",
+    "গৌরবিত"
+   ],
+   "answer": 2,
+   "explain_bn": "শুদ্ধ রূপ 'একত্র'। 'একত্রিত' প্রত্যয়জনিত অপপ্রয়োগ।",
+   "attack_tag": "একত্রিত নয়, একত্র। তবে আপনারা একসাথে দল বেঁধে ভুল করেন।",
+   "exam": {
+    "code": "BCS38",
+    "name_bn": "৩৮তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2017-12-29",
+    "type": "BCS",
+    "question_no": 2
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "17",
+    "pdf_page": 57
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS37-5",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "নিচের কোন বানানগুচ্ছের সবগুলো বানানই অশুদ্ধ?",
+   "options": [
+    "নিক্কণ, সুচ্যগ্র, অনুর্দ্ধ",
+    "অনূর্বর, ঊর্ধ্বগামী, শুদ্ধাশুদ্ধি",
+    "ভূরিভূরি, ভূঁড়িওয়ালা, মাতৃষ্বসা",
+    "রানি, বিকিরণ, দুরতিক্রম্য"
+   ],
+   "answer": 0,
+   "explain_bn": "(ক)-এর তিনটিই অশুদ্ধ। শুদ্ধ রূপ নিক্বণ, সূচ্যগ্র, অনূর্ধ্ব।",
+   "attack_tag": "তিনটি শব্দই ভুল, আপনার বায়োর তিন পদবির মতো।",
+   "exam": {
+    "code": "BCS37",
+    "name_bn": "৩৭তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-09-30",
+    "type": "BCS",
+    "question_no": 5
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "41",
+    "pdf_page": 81
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS35-1",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "“পুরস্কার-বিতরণী অনুষ্ঠানের পরিবেশ এত অপরিস্কার”—বাক্যটির নিম্নরেখ পদে ষ/স ব্যবহারে—",
+   "options": [
+    "প্রথমটি অশুদ্ধ, দ্বিতীয়টি শুদ্ধ",
+    "প্রথমটি শুদ্ধ, দ্বিতীয়টি অশুদ্ধ",
+    "দুটোই অশুদ্ধ",
+    "দুটোই শুদ্ধ"
+   ],
+   "answer": 2,
+   "explain_bn": "শুদ্ধ রূপ 'পুরস্কার' ও 'অপরিষ্কার'।",
+   "attack_tag": "পুরস্কার আর অপরিষ্কার দুটোই উল্টো বসিয়েছেন। নবীনবরণের ব্যানারটা মনে পড়ে গেল।",
+   "exam": {
+    "code": "BCS35",
+    "name_bn": "৩৫তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2015-03-06",
+    "type": "BCS",
+    "question_no": 1
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "85",
+    "pdf_page": 124
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS35-2",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "নিচের কোন বানানটি শুদ্ধ?",
+   "options": [
+    "মনীষী",
+    "মনিষি",
+    "মনীষি",
+    "মনিষী"
+   ],
+   "answer": 0,
+   "explain_bn": "শুদ্ধ বানান মনীষী।",
+   "attack_tag": "মনীষী লিখতে দুটো দীর্ঘ-ঈ লাগে। পদবি লিখতে লাগে শুধু সাহস।",
+   "exam": {
+    "code": "BCS35",
+    "name_bn": "৩৫তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2015-03-06",
+    "type": "BCS",
+    "question_no": 2
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "85",
+    "pdf_page": 124
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS35-3",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "usage",
+   "prompt": "কোন বাক্যটি শুদ্ধ?",
+   "options": [
+    "দৈন্যতা সর্বদা মহত্বের পরিচায়ক নয়",
+    "দৈন্য সর্বদা মহত্বের পরিচায়ক নয়",
+    "দৈন্যতা সর্বদা মহত্ত্বের পরিচায়ক নয়",
+    "দৈন্য সর্বদা মহত্ত্বের পরিচায়ক নয়"
+   ],
+   "answer": 3,
+   "explain_bn": "'দৈন্যতা' অশুদ্ধ, শুদ্ধ 'দৈন্য'। 'মহত্ব' অশুদ্ধ, শুদ্ধ 'মহত্ত্ব'।",
+   "attack_tag": "দৈন্য সর্বদা মহত্ত্বের পরিচায়ক নয়। পদবির দৈন্য তো নয়ই।",
+   "exam": {
+    "code": "BCS35",
+    "name_bn": "৩৫তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2015-03-06",
+    "type": "BCS",
+    "question_no": 3
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "85",
+    "pdf_page": 124
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS33-6",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "কোন বানানটি শুদ্ধ নয়?",
+   "options": [
+    "দরিদ্রতা",
+    "উপযোগিতা",
+    "শ্রদ্ধাঞ্জলি",
+    "উর্দ্ধ"
+   ],
+   "answer": 3,
+   "explain_bn": "শুদ্ধ রূপ 'ঊর্ধ্ব'।",
+   "attack_tag": "ঊর্ধ্বে উঠতে চাইলে বানান থেকে শুরু করুন।",
+   "exam": {
+    "code": "BCS33",
+    "name_bn": "৩৩তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2012-06-01",
+    "type": "BCS",
+    "question_no": 6
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "115",
+    "pdf_page": 154
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS33-9",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "usage",
+   "prompt": "কোন বাক্যটি শুদ্ধ?",
+   "options": [
+    "তোমার গোপন কথা শোনা আমার পক্ষে সম্ভব নয়।",
+    "দরিদ্রতা আমাদের প্রধান সমস্যা।",
+    "সলজ্জিত হাসি হেসে মেয়েটি উত্তর দিল।",
+    "সর্ব বিষয়ে বাহুল্যতা বর্জন করা উচিত।"
+   ],
+   "answer": 1,
+   "explain_bn": "(ক)-তে 'গোপনীয়', (গ)-তে 'সলজ্জ', (ঘ)-তে 'বাহুল্য' হবে। উত্তরমালা অনুযায়ী শুদ্ধ (খ)।",
+   "attack_tag": "বাহুল্যতা নয়, বাহুল্য। নামের আগে পাঁচটা পদবিকেও বাহুল্য বলে।",
+   "exam": {
+    "code": "BCS33",
+    "name_bn": "৩৩তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2012-06-01",
+    "type": "BCS",
+    "question_no": 9
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "115",
+    "pdf_page": 154
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS33-12",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "কোনটি সঠিক বানান?",
+   "options": [
+    "নিশিথিনী",
+    "নীশিথিনী",
+    "নিশীথিনী",
+    "নিশিথিনি"
+   ],
+   "answer": 2,
+   "explain_bn": "শুদ্ধ বানান নিশীথিনী।",
+   "attack_tag": "নিশীথিনী মানে রাত। রাতের বেলা আপনাদের 'ক্লায়েন্ট কনসাল্টেশন' লাইভ হয়।",
+   "exam": {
+    "code": "BCS33",
+    "name_bn": "৩৩তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2012-06-01",
+    "type": "BCS",
+    "question_no": 12
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "116",
+    "pdf_page": 155
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS33-18",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "কোন বানানটি শুদ্ধ?",
+   "options": [
+    "পিপিলিকা",
+    "পিপীলিকা",
+    "পীপিলিকা",
+    "পিপিলীকা"
+   ],
+   "answer": 1,
+   "explain_bn": "শুদ্ধ বানান পিপীলিকা।",
+   "attack_tag": "পিপীলিকার পাখা ওঠে মরিবার তরে। ফেসবুকে পদবি ওঠে ব্লক খাওয়ার তরে।",
+   "exam": {
+    "code": "BCS33",
+    "name_bn": "৩৩তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2012-06-01",
+    "type": "BCS",
+    "question_no": 18
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "116",
+    "pdf_page": 155
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS24-15",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "নিত্য মূর্ধন্য-ষ কোন শব্দে বর্তমান?",
+   "options": [
+    "কষ্ট",
+    "উপনিষৎ",
+    "কল্যাণীয়েষু",
+    "আষাঢ়"
+   ],
+   "answer": 3,
+   "explain_bn": "আষাঢ়ে 'ষ' কোনো নিয়ম ছাড়াই স্বভাবত থাকে, তাই নিত্য মূর্ধন্য-ষ।",
+   "attack_tag": "আষাঢ় নিত্য মূর্ধন্য-ষ। আপনার 'আমি ক্লিনিক্যাল' কথাটা নিত্য আষাঢ়ে গল্প।",
+   "exam": {
+    "code": "BCS24",
+    "name_bn": "২৪তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2003-08-08",
+    "type": "BCS",
+    "question_no": 15
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "216",
+    "pdf_page": 255
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS36-7",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "নিচের কোন শব্দে ণত্ব বিধি অনুসারে 'ণ'-এর ব্যবহার হয়েছে?",
+   "options": [
+    "কল্যাণ",
+    "প্রবণ",
+    "নিক্কণ",
+    "বিপণি"
+   ],
+   "answer": 1,
+   "explain_bn": "প্র-উপসর্গের র-এর প্রভাবে 'প্রবণ'-এ ণ হয়েছে। বাকিগুলোতে ণ স্বভাবত।",
+   "attack_tag": "ণত্ব বিধিরও নিয়ম আছে। পদবিরও আছে, বিআরসি আইনের ১৯ ধারা।",
+   "exam": {
+    "code": "BCS36",
+    "name_bn": "৩৬তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-01-08",
+    "type": "BCS",
+    "question_no": 7
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "65",
+    "pdf_page": 105
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS40-14",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "spelling",
+   "prompt": "'সর্বাঙ্গীণ' শব্দের সঠিক প্রকৃতি-প্রত্যয়—",
+   "options": [
+    "সর্বঙ্গ+ঈন",
+    "সর্ব+অঙ্গীন",
+    "সর্ব+ঈন",
+    "সর্বাঙ্গ+ঈন"
+   ],
+   "answer": 3,
+   "explain_bn": "সর্বাঙ্গ + ঈন = সর্বাঙ্গীণ।",
+   "attack_tag": "সর্বাঙ্গীণ ব্যর্থতারও একটা প্রকৃতি-প্রত্যয় আছে: সাইনবোর্ড + ফেসবুক।",
+   "exam": {
+    "code": "BCS40",
+    "name_bn": "৪০তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2019-05-03",
+    "type": "BCS",
+    "question_no": 14
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "1.2",
+    "pdf_page": 19
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS38-11",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "orthography",
+   "prompt": "'ক্ষ' যুক্তবর্ণটি কিভাবে গঠিত হয়েছে?",
+   "options": [
+    "হ্+ম",
+    "ক্+ষ",
+    "ষ্+ম",
+    "ম্+হ"
+   ],
+   "answer": 1,
+   "explain_bn": "ক্ + ষ = ক্ষ।",
+   "attack_tag": "ক্ষ = ক্ + ষ। ক্ষমা = আইন + অনুশোচনা।",
+   "exam": {
+    "code": "BCS38",
+    "name_bn": "৩৮তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2017-12-29",
+    "type": "BCS",
+    "question_no": 11
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "18",
+    "pdf_page": 58
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS36-3",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "orthography",
+   "prompt": "'বিজ্ঞান' শব্দের যুক্তবর্ণের সঠিক রূপ কোনটি?",
+   "options": [
+    "জ+ঞ",
+    "ঞ+গ",
+    "ঞ+জ",
+    "গ+ঞ"
+   ],
+   "answer": 0,
+   "explain_bn": "জ্ঞ = জ + ঞ।",
+   "attack_tag": "বিজ্ঞানের 'জ্ঞ' ভাঙলে পাওয়া যায় জ + ঞ। গার্হস্থ্য বিজ্ঞান ভাঙলে পাওয়া যায় গার্হস্থ্য।",
+   "exam": {
+    "code": "BCS36",
+    "name_bn": "৩৬তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-01-08",
+    "type": "BCS",
+    "question_no": 3
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "65",
+    "pdf_page": 105
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS36-2",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "orthography",
+   "prompt": "বাংলা বর্ণমালায় অর্ধমাত্রার বর্ণ কয়টি?",
+   "options": [
+    "৭টি",
+    "৯টি",
+    "১০টি",
+    "৮টি"
+   ],
+   "answer": 3,
+   "explain_bn": "অর্ধমাত্রার বর্ণ ৮টি: ঋ, খ, গ, ণ, থ, ধ, প, শ।",
+   "attack_tag": "অর্ধমাত্রার বর্ণ ৮টি। অর্ধসত্যের পদবি অসংখ্য।",
+   "exam": {
+    "code": "BCS36",
+    "name_bn": "৩৬তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-01-08",
+    "type": "BCS",
+    "question_no": 2
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "65",
+    "pdf_page": 105
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS38-12",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "orthography",
+   "prompt": "'সদ্যোজাত' শব্দের শুদ্ধ সন্ধিবিচ্ছেদ কোনটি?",
+   "options": [
+    "সৎ + জাত",
+    "সদ্যো + জাত",
+    "সদ্যঃ + জাত",
+    "সদ্য + জাত"
+   ],
+   "answer": 2,
+   "explain_bn": "সদ্যঃ + জাত = সদ্যোজাত (বিসর্গ সন্ধি)।",
+   "attack_tag": "সদ্যোজাত পদবি: আজ সকালেই ফেসবুকে জন্ম নিয়েছে।",
+   "exam": {
+    "code": "BCS38",
+    "name_bn": "৩৮তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2017-12-29",
+    "type": "BCS",
+    "question_no": 12
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "18",
+    "pdf_page": 58
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS35-13",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "orthography",
+   "prompt": "'দ্বৈপায়ন' শব্দের শুদ্ধ সন্ধিবিচ্ছেদ কোনটি?",
+   "options": [
+    "দ্বীপ + আয়ন",
+    "দ্বীপ + অয়ন",
+    "দ্বিপ + অনট",
+    "দ্বীপ + অনট"
+   ],
+   "answer": 1,
+   "explain_bn": "দ্বীপ + অয়ন = দ্বৈপায়ন।",
+   "attack_tag": "দ্বীপে আটকে থাকা ডিগ্রি দেখলাম: বিভাগ নেই, শুধু অধিভুক্তি।",
+   "exam": {
+    "code": "BCS35",
+    "name_bn": "৩৫তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2015-03-06",
+    "type": "BCS",
+    "question_no": 13
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "85",
+    "pdf_page": 124
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS36-1",
+   "bank": "bangla_spelling",
+   "lang": "bn",
+   "topic": "orthography",
+   "prompt": "'বন্ধন' শব্দের সঠিক অক্ষর বিন্যাস কোনটি?",
+   "options": [
+    "ব+ন্+ধ+ন্",
+    "বন্+ধন্",
+    "ব+ন্ধ+ন",
+    "বান্+ধন্"
+   ],
+   "answer": 1,
+   "explain_bn": "অক্ষর মানে এক ঝোঁকে উচ্চারিত ধ্বনিগুচ্ছ: বন্ + ধন্।",
+   "attack_tag": "বন্ধনেরও বিন্যাস আছে। অধিভুক্তি বন্ধনকে বিভাগ বলে চালানো যায় না।",
+   "exam": {
+    "code": "BCS36",
+    "name_bn": "৩৬তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-01-08",
+    "type": "BCS",
+    "question_no": 1
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "65",
+    "pdf_page": 105
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  }
+ ]
+}

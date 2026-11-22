@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="76" viewBox="0 0 560 76">
+  <!-- Answer button, state "hover". 9-slice margins: left 84, right 64, top 20, bottom 20. Badge centre (40,38). -->
+  <rect x="2" y="2" width="556" height="72" rx="14" fill="#1d2834" fill-opacity="0.92" stroke="#f2a541" stroke-opacity="0.95" stroke-width="1.6"/>
+  <path d="M16 3 H544" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
+  <circle cx="40" cy="38" r="22" fill="#f2a541" fill-opacity="0.22" stroke="#f2a541" stroke-opacity="0.95" stroke-width="2"/>
+  <rect x="2" y="14" width="5" height="48" rx="2.5" fill="#f2a541"/>
+  <path d="M520 30 L530 38 L520 46" fill="none" stroke="#f2a541" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

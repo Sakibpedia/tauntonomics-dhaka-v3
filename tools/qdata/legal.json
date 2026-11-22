@@ -1,0 +1,380 @@
+{
+ "bank": "legal",
+ "count": 11,
+ "items": [
+  {
+   "id": "LAW-PC-416",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "দণ্ডবিধি, ১৮৬০-এর কোন ধারায় 'Cheating by personation' সংজ্ঞায়িত?",
+   "options": [
+    "৪১৫",
+    "৪১৬",
+    "৪১৯",
+    "৪২০"
+   ],
+   "answer": 1,
+   "explain_bn": "ধারা ৪১৬-এর শিরোনাম 'Cheating by personation'। ধারা ৪১৫ সাধারণ প্রতারণা।",
+   "attack_tag": "অন্য কেউ সেজে প্রতারণা করা ৪১৬ ধারার বিষয়। নিজের পদবি সেজে করলে কী হয়, আদালতে জিজ্ঞেস করবেন।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Penal Code, 1860",
+    "section": "416",
+    "url": "http://bdlaws.minlaw.gov.bd/act-11.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-PC-419",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "'Punishment for cheating by personation' দণ্ডবিধির কোন ধারায়?",
+   "options": [
+    "৪১৭",
+    "৪১৬",
+    "৪১৯",
+    "৪৭১"
+   ],
+   "answer": 2,
+   "explain_bn": "ধারা ৪১৯-এর শিরোনাম 'Punishment for cheating by personation'।",
+   "attack_tag": "৪১৯: যে সংখ্যাটা ফেসবুক বায়োতে লেখা থাকে না।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Penal Code, 1860",
+    "section": "419",
+    "url": "http://bdlaws.minlaw.gov.bd/act-11.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-PC-464",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "দণ্ডবিধির ৪৬৪ ধারার শিরোনাম—",
+   "options": [
+    "Forgery",
+    "Making a false document",
+    "Using as genuine a forged document",
+    "Forgery for purpose of cheating"
+   ],
+   "answer": 1,
+   "explain_bn": "৪৬৩ Forgery, ৪৬৪ Making a false document, ৪৬৮ Forgery for purpose of cheating, ৪৭১ Using as genuine a forged document।",
+   "attack_tag": "মিথ্যা দলিল বানানো ৪৬৪ ধারার বিষয়। মিথ্যা ভিজিটিং কার্ড এখনো গবেষণার বিষয়।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Penal Code, 1860",
+    "section": "464",
+    "url": "http://bdlaws.minlaw.gov.bd/act-11.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-PC-471",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "জাল দলিলকে খাঁটি হিসেবে ব্যবহার ('Using as genuine a forged document') দণ্ডবিধির কোন ধারায়?",
+   "options": [
+    "৪৬৩",
+    "৪৬৮",
+    "৪৭১",
+    "৪২০"
+   ],
+   "answer": 2,
+   "explain_bn": "ধারা ৪৭১-এর শিরোনাম 'Using as genuine a forged document'।",
+   "attack_tag": "৪৭১ মনে রাখবেন। ৪২০-এর সাথে গুলিয়ে ফেললে আপনার কোচিং-গুরুর দোষ।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Penal Code, 1860",
+    "section": "471",
+    "url": "http://bdlaws.minlaw.gov.bd/act-11.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-CRPC-154",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "ফৌজদারি কার্যবিধির কোন ধারায় আমলযোগ্য মামলার তথ্য ('Information in cognizable cases') লিপিবদ্ধ হয়?",
+   "options": [
+    "১৫৪",
+    "১৬১",
+    "১৬৪",
+    "৪৯৬"
+   ],
+   "answer": 0,
+   "explain_bn": "ধারা ১৫৪-এর শিরোনাম 'Information in cognizable cases'। সাধারণভাবে একে এজাহার বা FIR বলে।",
+   "attack_tag": "১৫৪ ধারায় এজাহার হয়। ফেসবুক পোস্টে এজাহার হয় না।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Code of Criminal Procedure, 1898",
+    "section": "154",
+    "url": "http://bdlaws.minlaw.gov.bd/act-75.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-CRPC-496",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "'In what cases bail to be taken' ফৌজদারি কার্যবিধির কোন ধারা?",
+   "options": [
+    "৪৯৭",
+    "৪৯৬",
+    "৫৬১ক",
+    "১৬৪"
+   ],
+   "answer": 1,
+   "explain_bn": "ধারা ৪৯৬ জামিনযোগ্য অপরাধে জামিন। ৪৯৭ জামিন-অযোগ্য অপরাধে।",
+   "attack_tag": "জামিনের ধারাও মুখস্থ নেই, অথচ সাইনবোর্ডটা বিশাল।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Code of Criminal Procedure, 1898",
+    "section": "496",
+    "url": "http://bdlaws.minlaw.gov.bd/act-75.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-EVI-101",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "সাক্ষ্য আইন, ১৮৭২-এর কোন ধারার শিরোনাম 'Burden of proof'?",
+   "options": [
+    "১০১",
+    "১১৫",
+    "৩২",
+    "১১৮"
+   ],
+   "answer": 0,
+   "explain_bn": "ধারা ১০১-এর শিরোনাম 'Burden of proof'।",
+   "attack_tag": "প্রমাণের দায় যে দাবি করে তার। 'আমি নিউট্রিশনিস্ট' দাবিটা তো আপনার।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Evidence Act, 1872",
+    "section": "101",
+    "url": "http://bdlaws.minlaw.gov.bd/act-24.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-EVI-115",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "সাক্ষ্য আইনের ১১৫ ধারার শিরোনাম—",
+   "options": [
+    "Who may testify",
+    "Estoppel",
+    "Burden of proof",
+    "Interpretation-clause"
+   ],
+   "answer": 1,
+   "explain_bn": "ধারা ১১৫-এর শিরোনাম 'Estoppel'।",
+   "attack_tag": "এস্টপেল: নিজের কথা নিজে অস্বীকার করা যায় না। কাল পোস্ট, আজ ডিলিট। আদালত দুটোই দেখে।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Evidence Act, 1872",
+    "section": "115",
+    "url": "http://bdlaws.minlaw.gov.bd/act-24.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-CPC-11",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "দেওয়ানি কার্যবিধি, ১৯০৮-এর কোন ধারায় 'Res judicata' নীতি আছে?",
+   "options": [
+    "৯",
+    "১০",
+    "১১",
+    "৮০"
+   ],
+   "answer": 2,
+   "explain_bn": "ধারা ১০ Res sub judice, ধারা ১১ Res judicata।",
+   "attack_tag": "একই তর্ক বারবার তোলা যায় না, Res judicata। আপনার কমেন্টবক্স এটা জানে না।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "Code of Civil Procedure, 1908",
+    "section": "11",
+    "url": "http://bdlaws.minlaw.gov.bd/act-86.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "LAW-BRC-20",
+   "bank": "legal",
+   "lang": "bn",
+   "topic": "law",
+   "prompt": "বাংলাদেশ রিহ্যাবিলিটেশন কাউন্সিল আইন, ২০১৮-এর কোন ধারায় 'মিথ্যা উপাধি, ডিগ্রি, চিহ্ন অথবা বর্ণনা ব্যবহার নিষিদ্ধ এবং উহার দণ্ড' আছে?",
+   "options": [
+    "১৯",
+    "২০",
+    "২১",
+    "৩৪"
+   ],
+   "answer": 1,
+   "explain_bn": "ধারা ১৯: কাউন্সিল নির্ধারিত পদবি। ধারা ২০: মিথ্যা উপাধি ব্যবহার নিষিদ্ধ ও দণ্ড। ধারা ২১: নিবন্ধন ছাড়া প্র্যাকটিস বা নকল ডিগ্রি। ধারা ৩৪: তফসিল সংশোধন।",
+   "attack_tag": "১৯ ধারায় বলা আছে নামের আগে কী বসবে তা কাউন্সিল ঠিক করবে। তাই আসলেই, 'সেটা আপনার জানার কথা না'।",
+   "exam": {
+    "code": "STATUTE",
+    "name_bn": "আইনভিত্তিক প্রশ্ন (বিগত বার কাউন্সিল প্রশ্নপত্র নয়)",
+    "date": null,
+    "type": "STATUTE",
+    "question_no": null
+   },
+   "source": {
+    "statute": "বাংলাদেশ রিহ্যাবিলিটেশন কাউন্সিল আইন, ২০১৮",
+    "section": "20",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1284.html"
+   },
+   "verification": {
+    "status": "verified_statute",
+    "method": "bdlaws.minlaw.gov.bd-এর ধারা-শিরোনামের সাথে মিলিয়ে দেখা",
+    "checked_on": "2026-11-19",
+    "notes": "বিগত বার কাউন্সিল প্রশ্নপত্রের উৎস যোগ না হওয়া পর্যন্ত strict_past_paper মোডে বন্ধ থাকে।"
+   }
+  },
+  {
+   "id": "BJS12-13",
+   "bank": "legal",
+   "lang": "en",
+   "topic": "law_terms",
+   "prompt": "Who is the speaker of this quote? 'No man is above the law and no man is below it'",
+   "options": [
+    "Franklin",
+    "Dickens",
+    "Douglas",
+    "Roosevelt"
+   ],
+   "answer": 3,
+   "explain_bn": "উক্তিটি মার্কিন প্রেসিডেন্ট থিওডোর রুজভেল্টের।",
+   "attack_tag": "আইনের ঊর্ধ্বে কেউ নেই। সাইনবোর্ডও নেই।",
+   "exam": {
+    "code": "BJS12",
+    "name_bn": "১২তম বিজেএস (সহকারী জজ) প্রাথমিক পরীক্ষা",
+    "date": "2018-06-29",
+    "type": "BJS",
+    "question_no": 13
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "1264",
+    "pdf_page": 1298
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  }
+ ]
+}

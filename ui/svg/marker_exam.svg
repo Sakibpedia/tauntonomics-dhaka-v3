@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="112" viewBox="0 0 96 112">
+  <!-- "This person may ask an exam question" marker. -->
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4fe0d2"/>
+      <stop offset="1" stop-color="#139488"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="46" r="42" fill="#2ec4b6" fill-opacity="0.10"/>
+  <path d="M48 8 A36 36 0 1 1 26 75 L14 92 L18 68 A36 36 0 0 1 48 8 Z" fill="url(#b)" stroke="#dffcf8" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M37 34 C37 22 59 22 59 34 C59 44 48 44 48 54" fill="none" stroke="#062a27" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="66" r="4.8" fill="#062a27"/>
+</svg>

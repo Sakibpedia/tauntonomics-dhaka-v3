@@ -1,0 +1,755 @@
+{
+ "sakib": {
+  "id": "sakib",
+  "name": "এস এম নাজমুয সাকিব",
+  "role": "নায়ক",
+  "look": {
+   "sex": "m",
+   "outfit": "coat",
+   "hair": "short",
+   "beard": "full",
+   "age": 0.2,
+   "colors": [
+    "#16171b",
+    "#f2f2f2"
+   ]
+  },
+  "bio": "এলএলবি পাস, বেকার, তিনবার বিসিএস ভাইভা পর্যন্ত গিয়ে ফেরত। হাতে আইনের বই, মাথায় তিন হাজার প্রশ্ন।",
+  "greet": [],
+  "cats": [],
+  "examiner": 0.0,
+  "faction": "player"
+ },
+ "nasima": {
+  "id": "nasima",
+  "name": "নাসিমা খালা",
+  "role": "চা-দোকানি",
+  "look": {
+   "sex": "f",
+   "outfit": "saree",
+   "hair": "bun",
+   "age": 0.7,
+   "colors": [
+    "#2f6b4f",
+    "#e7c35a"
+   ]
+  },
+  "bio": "সনটেকের মোড়ে ৩০ বছর চা বেচেন। পাড়ার সব খবর তাঁর কেটলিতে ফোটে।",
+  "greet": [
+   "আয় বাবা, চা খা। খালি পেটে প্রশ্নের উত্তর মাথায় আসে না।",
+   "সিন্ডিকেটের ছেলেগুলা আবার আসছিল, চাঁদা চায়।"
+  ],
+  "cats": [
+   "bangla",
+   "bd"
+  ],
+  "examiner": 0.7,
+  "faction": "civilian"
+ },
+ "babul": {
+  "id": "babul",
+  "name": "বাবুল",
+  "role": "রিকশাচালক",
+  "look": {
+   "sex": "m",
+   "outfit": "lungi_vest",
+   "hair": "short",
+   "beard": "stubble",
+   "gamchha": true,
+   "age": 0.35,
+   "colors": [
+    "#2a4f7a",
+    "#c63b3b"
+   ]
+  },
+  "bio": "মাস্টার্স পাস। তিনবার ভাইভা দিয়েছে, তিনবারই 'পোস্ট নাই'। এখন রিকশার প্যাডেলে বিসিএস গাইড ঝোলে।",
+  "greet": [
+   "ভাই, কোথায় যাবেন? ভাড়া লাগবে না, একটা প্রশ্নের উত্তর দিলেই হবে।",
+   "আজকে সাধারণ জ্ঞান পড়লাম, প্যাডেল মারতে মারতে।"
+  ],
+  "cats": [
+   "gk",
+   "bd",
+   "math"
+  ],
+  "examiner": 0.8,
+  "faction": "civilian"
+ },
+ "hakim": {
+  "id": "hakim",
+  "name": "হাকিম স্যার",
+  "role": "অবসরপ্রাপ্ত শিক্ষক",
+  "look": {
+   "sex": "m",
+   "outfit": "panjabi",
+   "hair": "short",
+   "beard": "full",
+   "glasses": true,
+   "age": 0.95,
+   "colors": [
+    "#efe9dc",
+    "#8a6d3b"
+   ]
+  },
+  "bio": "চল্লিশ বছর অঙ্ক পড়িয়েছেন। প্রশ্নফাঁসের বিরুদ্ধে প্রথম চিঠিটা তাঁরই লেখা।",
+  "greet": [
+   "প্রশ্ন ফাঁস করে চাকরি পাওয়া যায়, মানুষ হওয়া যায় না।",
+   "অঙ্কের উত্তর একটাই হয়, বাকি সব অজুহাত।"
+  ],
+  "cats": [
+   "math",
+   "mental"
+  ],
+  "examiner": 0.9,
+  "faction": "civilian"
+ },
+ "tumpa": {
+  "id": "tumpa",
+  "name": "তুম্পা",
+  "role": "সাংবাদিক",
+  "look": {
+   "sex": "f",
+   "outfit": "salwar",
+   "hair": "long",
+   "glasses": true,
+   "age": 0.25,
+   "colors": [
+    "#1d4f93",
+    "#e0b22c"
+   ]
+  },
+  "bio": "অনলাইন পত্রিকার রিপোর্টার। সিন্ডিকেটের তালিকা হাতে পেলে কাল সকালের হেডলাইন।",
+  "greet": [
+   "সূত্র ছাড়া কিছু লিখি না, সাকিব ভাই।",
+   "ইংরেজিটা ঠিক না হলে আমার এডিটর পুরো রিপোর্ট ফেলে দেয়।"
+  ],
+  "cats": [
+   "english",
+   "gk"
+  ],
+  "examiner": 0.6,
+  "faction": "civilian"
+ },
+ "lili": {
+  "id": "lili",
+  "name": "লিলি",
+  "role": "সিএস শিক্ষার্থী",
+  "look": {
+   "sex": "f",
+   "outfit": "tshirt_jeans",
+   "hair": "long",
+   "age": 0.15,
+   "colors": [
+    "#3a3a3a",
+    "#7a2fd6"
+   ]
+  },
+  "bio": "রাত জেগে কোড লেখে। সিন্ডিকেটের ফেসবুক বট-খামারের মানচিত্র তার কাছে।",
+  "greet": [
+   "রাউটারের পাসওয়ার্ড জানতে চাইলে আগে বাইনারি জানতে হবে।",
+   "বটগুলো একই বানান ভুল করে, ধরা সহজ।"
+  ],
+  "cats": [
+   "ict",
+   "english"
+  ],
+  "examiner": 0.7,
+  "faction": "civilian"
+ },
+ "rumana": {
+  "id": "rumana",
+  "name": "রুমানা",
+  "role": "গার্হস্থ্য অর্থনীতি গ্র্যাজুয়েট",
+  "look": {
+   "sex": "f",
+   "outfit": "salwar",
+   "hair": "hijab",
+   "age": 0.2,
+   "colors": [
+    "#6b3f7a",
+    "#e6dcc6"
+   ]
+  },
+  "bio": "সত্যি সত্যি খাদ্য ও পুষ্টিতে আগ্রহী। জানতে চায় কোন পথে গেলে বৈধভাবে পেশা গড়া যায়। সিন্ডিকেটের 'সাত দিনের সার্টিফিকেট'-এ টাকা খুইয়েছে।",
+  "greet": [
+   "আমরা প্রতারিত হয়েছি, কিন্তু আমরা প্রতারক না।",
+   "পদবি না, আমি আসল যোগ্যতা চাই।"
+  ],
+  "cats": [
+   "science",
+   "bangla"
+  ],
+  "examiner": 0.5,
+  "faction": "civilian"
+ },
+ "jasmine": {
+  "id": "jasmine",
+  "name": "জিরাপানি জেসমিন",
+  "role": "স্বঘোষিত 'নিউট্রিশনিস্ট' ইনফ্লুয়েন্সার",
+  "look": {
+   "sex": "f",
+   "outfit": "salwar",
+   "hair": "long",
+   "age": 0.25,
+   "colors": [
+    "#1f8a4c",
+    "#f2f2f2"
+   ]
+  },
+  "bio": "ফলোয়ার এক লাখ, সনদ একটা, পদবি সাতটা।",
+  "greet": [
+   "আমার ডায়েট চার্ট নিলে ইনসুলিনের দরকার নেই! (দয়া করে এটা কেউ বিশ্বাস করবেন না)",
+   "লাইভে আসছি, আপনি আমার পোস্টে লাইক দেননি কেন?"
+  ],
+  "cats": [
+   "science"
+  ],
+  "examiner": 0.9,
+  "faction": "pseudo"
+ },
+ "kamrul": {
+  "id": "kamrul",
+  "name": "কামরুল 'কোর্সওয়ালা'",
+  "role": "কোচিং-গুরু, সিন্ডিকেট লেফটেন্যান্ট",
+  "look": {
+   "sex": "m",
+   "outfit": "suit",
+   "hair": "short",
+   "beard": "none",
+   "glasses": true,
+   "age": 0.45,
+   "colors": [
+    "#2b2b30",
+    "#c9a227"
+   ]
+  },
+  "bio": "'সাত দিনে ক্যাডার' কোচিংয়ের মালিক। ফাঁস হওয়া প্রশ্ন বিক্রি করে, সাথে বেচে ভুয়া 'ক্লিনিক্যাল' সার্টিফিকেট।",
+  "greet": [
+   "গ্যারান্টি দিচ্ছি, পয়সা দিন, প্রশ্ন নিন।",
+   "পড়ার দরকার নেই, পেমেন্টের দরকার আছে।"
+  ],
+  "cats": [
+   "math",
+   "mental"
+  ],
+  "examiner": 1.0,
+  "faction": "syndicate"
+ },
+ "badrul": {
+  "id": "badrul",
+  "name": "বদরুল 'ব্যানার'",
+  "role": "কলেজ পিআর অফিসার",
+  "look": {
+   "sex": "m",
+   "outfit": "shirt_pants",
+   "hair": "short",
+   "age": 0.4,
+   "colors": [
+    "#1b2d5a",
+    "#d1d1d1"
+   ]
+  },
+  "bio": "অধিভুক্ত কলেজকে 'বিশ্ববিদ্যালয়ের বিভাগ' বলে চালানো তার পেশা।",
+  "greet": [
+   "আমরা বিভাগ নই, তবে বিভাগের মতো অনুভূতি দিই।",
+   "ব্যানার বড় হলে সত্য ছোট হয়ে যায়।"
+  ],
+  "cats": [
+   "bangla"
+  ],
+  "examiner": 0.8,
+  "faction": "pseudo"
+ },
+ "monti": {
+  "id": "monti",
+  "name": "মন্টু 'ঘাটের রাজা'",
+  "role": "সিন্ডিকেট কুরিয়ার-প্রধান",
+  "look": {
+   "sex": "m",
+   "outfit": "goon",
+   "hair": "short",
+   "beard": "full",
+   "age": 0.5,
+   "colors": [
+    "#141414",
+    "#a61b1b"
+   ]
+  },
+  "bio": "সদরঘাট দিয়ে প্রশ্নের বান্ডিল সারা দেশে পাঠায়।",
+  "greet": [
+   "ঘাটে আমার কথাই আইন।"
+  ],
+  "cats": [
+   "gk",
+   "bd"
+  ],
+  "examiner": 1.0,
+  "faction": "syndicate"
+ },
+ "harun": {
+  "id": "harun",
+  "name": "হারুন 'ছাপাখানা'",
+  "role": "ছাপাখানার ম্যানেজার",
+  "look": {
+   "sex": "m",
+   "outfit": "shirt_pants",
+   "hair": "bald",
+   "beard": "stubble",
+   "age": 0.6,
+   "colors": [
+    "#4a3b2a",
+    "#d8cfbd"
+   ]
+  },
+  "bio": "রাতের শিফটে প্রশ্নপত্র আর ভুয়া সনদ একই মেশিনে ছাপে।",
+  "greet": [
+   "কালি একই, কাগজ একই, শুধু সই আলাদা।"
+  ],
+  "cats": [
+   "bangla",
+   "english"
+  ],
+  "examiner": 1.0,
+  "faction": "syndicate"
+ },
+ "jamal": {
+  "id": "jamal",
+  "name": "ছুরি জামাল",
+  "role": "সিন্ডিকেটের মাস্তান",
+  "look": {
+   "sex": "m",
+   "outfit": "goon",
+   "hair": "short",
+   "beard": "stubble",
+   "age": 0.35,
+   "colors": [
+    "#101010",
+    "#7a1010"
+   ]
+  },
+  "bio": "সিন্ডিকেটের হয়ে চাঁদা তোলে, ভয় দেখায়।",
+  "greet": [
+   "প্রশ্ন? আমি প্রশ্ন করি, উত্তর দেয় অন্যরা।"
+  ],
+  "cats": [
+   "math"
+  ],
+  "examiner": 1.0,
+  "faction": "syndicate"
+ },
+ "talukdar": {
+  "id": "talukdar",
+  "name": "টেন্ডার তালুকদার",
+  "role": "সিন্ডিকেটের অর্থদাতা",
+  "look": {
+   "sex": "m",
+   "outfit": "suit",
+   "hair": "short",
+   "beard": "none",
+   "age": 0.65,
+   "colors": [
+    "#e8e2d0",
+    "#7a5c1e"
+   ]
+  },
+  "bio": "গুলশানের পার্টিতে টেন্ডার আর টেস্টের রেজাল্ট একসাথে বিক্রি হয়।",
+  "greet": [
+   "সবকিছুর দাম আছে, এমনকি মেধারও।"
+  ],
+  "cats": [
+   "english",
+   "gk"
+  ],
+  "examiner": 1.0,
+  "faction": "syndicate"
+ },
+ "samad": {
+  "id": "samad",
+  "name": "'সিল' সামাদ",
+  "role": "দপ্তরের ভেতরের লোক",
+  "look": {
+   "sex": "m",
+   "outfit": "shirt_pants",
+   "hair": "short",
+   "beard": "stubble",
+   "glasses": true,
+   "age": 0.55,
+   "colors": [
+    "#c9c3b0",
+    "#3a3a3a"
+   ]
+  },
+  "bio": "সিলগালা খামের দায়িত্ব যার, সেই খোলে খাম।",
+  "greet": [
+   "আমি তো শুধু সিল মারি, প্রশ্ন তো কাগজ নিজেই হাঁটে।"
+  ],
+  "cats": [
+   "law",
+   "bd"
+  ],
+  "examiner": 1.0,
+  "faction": "syndicate"
+ },
+ "mahfuz": {
+  "id": "mahfuz",
+  "name": "ইন্সপেক্টর মাহফুজ",
+  "role": "সৎ পুলিশ কর্মকর্তা",
+  "look": {
+   "sex": "m",
+   "outfit": "uniform_police",
+   "hair": "short",
+   "beard": "none",
+   "age": 0.45,
+   "colors": [
+    "#5b5a3c",
+    "#2c2c2c"
+   ]
+  },
+  "bio": "বদলি হয়েছেন এগারোবার, কারণ সই করতে অস্বীকার করেছেন।",
+  "greet": [
+   "আইনের হাতে তুলে দিন, সাকিব সাহেব। প্রতিশোধ মামলা জেতে না।"
+  ],
+  "cats": [
+   "law"
+  ],
+  "examiner": 0.6,
+  "faction": "police"
+ },
+ "farzana": {
+  "id": "farzana",
+  "name": "ডা. ফারজানা",
+  "role": "হাসপাতালের চিকিৎসক",
+  "look": {
+   "sex": "f",
+   "outfit": "labcoat",
+   "hair": "bun",
+   "glasses": true,
+   "age": 0.4,
+   "colors": [
+    "#f4f4f4",
+    "#2b6cb0"
+   ]
+  },
+  "bio": "রোগীর খাদ্যতালিকা ঠিক করেন নিবন্ধিত ডায়েটিশিয়ানের সাথে মিলে। 'পুষ্টি-ডেস্ক'-এর জিরা পানিতে ক্লান্ত।",
+  "greet": [
+   "চিকিৎসা প্রমাণ মেনে হয়, ফলোয়ার মেনে নয়।"
+  ],
+  "cats": [
+   "science",
+   "past"
+  ],
+  "examiner": 0.6,
+  "faction": "civilian"
+ },
+ "dean": {
+  "id": "dean",
+  "name": "প্রফেসর ড. (অবৈতনিক) সিলেবাসউদ্দিন অধিভুক্ত",
+  "role": "সর্বাঙ্গীণ কলেজের অধ্যক্ষ",
+  "look": {
+   "sex": "m",
+   "outfit": "suit",
+   "hair": "bald",
+   "beard": "full",
+   "glasses": true,
+   "age": 1.0,
+   "colors": [
+    "#2a2018",
+    "#c9a227"
+   ]
+  },
+  "bio": "১৯৬১ সালের সিলেবাস আজও পড়ান। সিন্ডিকেটের হাতের পুতুল, নিজেও জানেন না।",
+  "greet": [
+   "সিলেবাস আপডেট? ভাবছি, ভাবছি।"
+  ],
+  "cats": [
+   "bangla",
+   "law"
+  ],
+  "examiner": 1.0,
+  "faction": "pseudo"
+ },
+ "examiner": {
+  "id": "examiner",
+  "name": "মহাপরীক্ষক",
+  "role": "সিন্ডিকেটের প্রধান",
+  "look": {
+   "sex": "m",
+   "outfit": "suit",
+   "hair": "short",
+   "beard": "none",
+   "glasses": true,
+   "age": 0.7,
+   "colors": [
+    "#0b0b0b",
+    "#a61b1b"
+   ]
+  },
+  "bio": "কেউ তাকে দেখেনি। প্রতিটি ফাঁস হওয়া প্রশ্নের নিচে তার জলছাপ।",
+  "greet": [
+   "প্রশ্ন আমি বানাই, উত্তরও আমি বেচি।"
+  ],
+  "cats": [
+   "law",
+   "math",
+   "bangla",
+   "english",
+   "gk"
+  ],
+  "examiner": 1.0,
+  "faction": "syndicate"
+ },
+ "rahmat": {
+  "id": "rahmat",
+  "name": "রহমত মিয়া",
+  "role": "বৃদ্ধ ছাপাখানাওয়ালা",
+  "look": {
+   "sex": "m",
+   "outfit": "panjabi",
+   "hair": "short",
+   "beard": "full",
+   "age": 0.9,
+   "colors": [
+    "#d9d2bf",
+    "#5a4630"
+   ]
+  },
+  "bio": "পুরান ঢাকার ছাপাখানায় ৫০ বছর। সিন্ডিকেট তাকে দিয়ে ভুয়া সনদ ছাপিয়েছিল, এখন অনুতপ্ত।",
+  "greet": [
+   "সীসার অক্ষর মিথ্যা বলে না, যে সাজায় সে বলে।"
+  ],
+  "cats": [
+   "bangla"
+  ],
+  "examiner": 0.8,
+  "faction": "civilian"
+ },
+ "boatman": {
+  "id": "boatman",
+  "name": "মাঝি আলাউদ্দিন",
+  "role": "নৌকার মাঝি",
+  "look": {
+   "sex": "m",
+   "outfit": "lungi_vest",
+   "hair": "short",
+   "beard": "full",
+   "gamchha": true,
+   "age": 0.6,
+   "colors": [
+    "#7a2f2f",
+    "#e0d6c0"
+   ]
+  },
+  "bio": "বুড়িগঙ্গার প্রতিটি ঘাট চেনে।",
+  "greet": [
+   "নদী জানে কে কী পাচার করে।"
+  ],
+  "cats": [
+   "gk",
+   "bd"
+  ],
+  "examiner": 0.7,
+  "faction": "civilian"
+ },
+ "receptionist": {
+  "id": "receptionist",
+  "name": "রিসেপশনিস্ট রিনা",
+  "role": "কোচিং রিসেপশন",
+  "look": {
+   "sex": "f",
+   "outfit": "salwar",
+   "hair": "long",
+   "age": 0.25,
+   "colors": [
+    "#c23b6b",
+    "#f5e6ef"
+   ]
+  },
+  "bio": "",
+  "greet": [
+   "ভর্তি হতে চাইলে আগে অ্যাডমিশন টেস্ট। নিয়ম নিয়মই।"
+  ],
+  "cats": [
+   "math",
+   "english"
+  ],
+  "examiner": 1.0,
+  "faction": "civilian"
+ },
+ "guard": {
+  "id": "guard",
+  "name": "দারোয়ান মোতালেব",
+  "role": "দারোয়ান",
+  "look": {
+   "sex": "m",
+   "outfit": "guard",
+   "hair": "short",
+   "beard": "stubble",
+   "age": 0.5,
+   "colors": [
+    "#3b4a5c",
+    "#1e1e1e"
+   ]
+  },
+  "bio": "",
+  "greet": [
+   "ভিতরে ঢুকতে হলে প্রশ্নের উত্তর দেন, স্যার বলছেন।"
+  ],
+  "cats": [
+   "gk",
+   "english"
+  ],
+  "examiner": 1.0,
+  "faction": "civilian"
+ },
+ "shopkeeper": {
+  "id": "shopkeeper",
+  "name": "মুদি দোকানি করিম",
+  "role": "দোকানদার",
+  "look": {
+   "sex": "m",
+   "outfit": "lungi_vest",
+   "hair": "short",
+   "beard": "stubble",
+   "age": 0.5,
+   "colors": [
+    "#2a6a4a",
+    "#eeeeee"
+   ]
+  },
+  "bio": "",
+  "greet": [
+   "মোমবাতি, দেয়াশলাই, চা-পাতা, সব আছে। বাকি নাই।"
+  ],
+  "cats": [
+   "math"
+  ],
+  "examiner": 0.5,
+  "faction": "civilian"
+ },
+ "p1": {
+  "id": "p1",
+  "name": "রহিম চাচা",
+  "role": "রোগী",
+  "look": {
+   "sex": "m",
+   "outfit": "panjabi",
+   "hair": "short",
+   "age": 0.6
+  },
+  "bio": "",
+  "greet": [],
+  "cats": [
+   "science"
+  ],
+  "examiner": 0.0,
+  "faction": "patient"
+ },
+ "p2": {
+  "id": "p2",
+  "name": "নাসিমা আপা",
+  "role": "রোগী",
+  "look": {
+   "sex": "f",
+   "outfit": "panjabi",
+   "hair": "short",
+   "age": 0.6
+  },
+  "bio": "",
+  "greet": [],
+  "cats": [
+   "science"
+  ],
+  "examiner": 0.0,
+  "faction": "patient"
+ },
+ "p3": {
+  "id": "p3",
+  "name": "বাবলু",
+  "role": "রোগী",
+  "look": {
+   "sex": "m",
+   "outfit": "panjabi",
+   "hair": "short",
+   "age": 0.6
+  },
+  "bio": "",
+  "greet": [],
+  "cats": [
+   "science"
+  ],
+  "examiner": 0.0,
+  "faction": "patient"
+ },
+ "p4": {
+  "id": "p4",
+  "name": "করিম ভাই",
+  "role": "রোগী",
+  "look": {
+   "sex": "m",
+   "outfit": "panjabi",
+   "hair": "short",
+   "age": 0.6
+  },
+  "bio": "",
+  "greet": [],
+  "cats": [
+   "science"
+  ],
+  "examiner": 0.0,
+  "faction": "patient"
+ },
+ "p5": {
+  "id": "p5",
+  "name": "সালমা আপা",
+  "role": "রোগী",
+  "look": {
+   "sex": "f",
+   "outfit": "panjabi",
+   "hair": "short",
+   "age": 0.6
+  },
+  "bio": "",
+  "greet": [],
+  "cats": [
+   "science"
+  ],
+  "examiner": 0.0,
+  "faction": "patient"
+ },
+ "p6": {
+  "id": "p6",
+  "name": "জামাল সাহেব",
+  "role": "রোগী",
+  "look": {
+   "sex": "m",
+   "outfit": "panjabi",
+   "hair": "short",
+   "age": 0.6
+  },
+  "bio": "",
+  "greet": [],
+  "cats": [
+   "science"
+  ],
+  "examiner": 0.0,
+  "faction": "patient"
+ },
+ "p7": {
+  "id": "p7",
+  "name": "মিনু ভাবি",
+  "role": "রোগী",
+  "look": {
+   "sex": "f",
+   "outfit": "panjabi",
+   "hair": "short",
+   "age": 0.6
+  },
+  "bio": "",
+  "greet": [],
+  "cats": [
+   "science"
+  ],
+  "examiner": 0.0,
+  "faction": "patient"
+ }
+}

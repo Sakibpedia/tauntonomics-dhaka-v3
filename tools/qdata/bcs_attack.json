@@ -1,0 +1,1366 @@
+{
+ "bank": "bcs_attack",
+ "count": 40,
+ "items": [
+  {
+   "id": "BCS40-141",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "nutrition",
+   "prompt": "ডিমে কোন ভিটামিন নেই?",
+   "options": [
+    "ভিটামিন-এ",
+    "ভিটামিন-বি",
+    "ভিটামিন-সি",
+    "ভিটামিন-ডি"
+   ],
+   "answer": 2,
+   "explain_bn": "ডিমে ভিটামিন এ, বি, ডি ও ই থাকে, কিন্তু ভিটামিন-সি থাকে না।",
+   "attack_tag": "ডিমে ভিটামিন-সি খুঁজে না পেয়ে ডায়েট চার্টে আপনি লেবু চিপে দিয়েছিলেন, তাই না?",
+   "exam": {
+    "code": "BCS40",
+    "name_bn": "৪০তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2019-05-03",
+    "type": "BCS",
+    "question_no": 141
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "1.17",
+    "pdf_page": 34
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS40-145",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "science",
+   "prompt": "খাদ্য তৈরির জন্য উদ্ভিদ বায়ু থেকে গ্রহণ করে—",
+   "options": [
+    "অক্সিজেন",
+    "কার্বন ডাই-অক্সাইড",
+    "নাইট্রোজেন",
+    "জলীয় বাষ্প"
+   ],
+   "answer": 1,
+   "explain_bn": "সালোকসংশ্লেষণে উদ্ভিদ বাতাস থেকে কার্বন ডাই-অক্সাইড নেয়।",
+   "attack_tag": "গাছও জানে কী খেতে হয়। আপনার ডিটক্স জুস জানে না।",
+   "exam": {
+    "code": "BCS40",
+    "name_bn": "৪০তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2019-05-03",
+    "type": "BCS",
+    "question_no": 145
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "1.17",
+    "pdf_page": 34
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS40-139",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "science",
+   "prompt": "বাতাসের আর্দ্রতা মাপার যন্ত্রের নাম কী?",
+   "options": [
+    "মাইক্রোমিটার",
+    "হাইগ্রোমিটার",
+    "ব্যারোমিটার",
+    "এ্যাল্টিমিটার"
+   ],
+   "answer": 1,
+   "explain_bn": "হাইগ্রোমিটার বাতাসের আর্দ্রতা মাপে।",
+   "attack_tag": "আর্দ্রতা মাপার যন্ত্র আছে। পদবির আর্দ্রতা মাপার যন্ত্র এখনো আসেনি।",
+   "exam": {
+    "code": "BCS40",
+    "name_bn": "৪০তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2019-05-03",
+    "type": "BCS",
+    "question_no": 139
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "1.17",
+    "pdf_page": 34
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS40-144",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "medicine",
+   "prompt": "ক্যান্সার চিকিৎসায় ব্যবহৃত গামা বিকিরণের উৎস কি?",
+   "options": [
+    "আইসোটন",
+    "আইসোটোপ",
+    "আইসোবার",
+    "আইসোমার"
+   ],
+   "answer": 1,
+   "explain_bn": "কোবাল্ট-৬০-এর মতো তেজস্ক্রিয় আইসোটোপ থেকে গামা রশ্মি আসে।",
+   "attack_tag": "ক্যান্সার সারে রেডিওথেরাপিতে, হলুদ-দুধে নয়।",
+   "exam": {
+    "code": "BCS40",
+    "name_bn": "৪০তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2019-05-03",
+    "type": "BCS",
+    "question_no": 144
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "1.17",
+    "pdf_page": 34
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS40-15",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "law_terms",
+   "prompt": "অন্যের রচনা থেকে চুরি করাকে বলা হয়—",
+   "options": [
+    "বেতসবৃত্তি",
+    "পতঙ্গবৃত্তি",
+    "জলৌকাবৃত্তি",
+    "কুম্ভিলকবৃত্তি"
+   ],
+   "answer": 3,
+   "explain_bn": "অন্যের লেখা নিজের নামে চালানোকে কুম্ভিলকবৃত্তি বলে।",
+   "attack_tag": "অন্যের ডিগ্রির নাম নিজের সাইনবোর্ডে বসানোকে কী বলে, সেটা পরের সংস্করণে আসছে।",
+   "exam": {
+    "code": "BCS40",
+    "name_bn": "৪০তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2019-05-03",
+    "type": "BCS",
+    "question_no": 15
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "1.2",
+    "pdf_page": 19
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS38-134",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "science",
+   "prompt": "ব্যাকটেরিয়ার কোষে নিচের কোনটি উপস্থিত?",
+   "options": [
+    "প্লাস্টিড",
+    "মাইটোকন্ড্রিয়া",
+    "নিউক্লিওলাস",
+    "ক্রোমাটিন বস্তু"
+   ],
+   "answer": 3,
+   "explain_bn": "ব্যাকটেরিয়া আদিকোষী। এতে সুগঠিত নিউক্লিয়াস বা মাইটোকন্ড্রিয়া নেই, তবে ক্রোমাটিন বস্তু থাকে।",
+   "attack_tag": "ব্যাকটেরিয়ারও নিউক্লিয়াস নেই, আপনার চার্টেরও ভিত্তি নেই।",
+   "exam": {
+    "code": "BCS38",
+    "name_bn": "৩৮তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2017-12-29",
+    "type": "BCS",
+    "question_no": 134
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "32",
+    "pdf_page": 72
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS38-140",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "medicine",
+   "prompt": "মা-এর রক্তে হেপাটাইটিস-বি ভাইরাস থাকলে নবজাতকের স্বাস্থ্যঝুঁকি ব্যবস্থাপনা কি হওয়া উচিত?",
+   "options": [
+    "৩০ দিনের মধ্যে ভ্যাকসিন দিতে হবে",
+    "৭ দিন ইনকিউবেটরে রাখতে হবে",
+    "জন্মের ১২ ঘণ্টার মধ্যে ভ্যাকসিন ও এইচবিআইজি (HBIG) শট দিতে হবে",
+    "জন্মের ১ মাস পর কেবলমাত্র (HBIG) শট দিতে হবে"
+   ],
+   "answer": 2,
+   "explain_bn": "জন্মের ১২ ঘণ্টার মধ্যে টিকা ও HBIG দিলে মায়ের থেকে শিশুর সংক্রমণের ঝুঁকি অনেক কমে।",
+   "attack_tag": "এখানে মধু-কালোজিরা কোনো অপশনেই নেই। পরীক্ষকও আপনাকে চেনেন।",
+   "exam": {
+    "code": "BCS38",
+    "name_bn": "৩৮তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2017-12-29",
+    "type": "BCS",
+    "question_no": 140
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "32",
+    "pdf_page": 72
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS38-141",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "medicine",
+   "prompt": "ডেঙ্গু রোগ ছড়ায়—",
+   "options": [
+    "Aedes aegypti মশা",
+    "House flies",
+    "Anopheles মশা",
+    "ইঁদুর ও কাঠবেড়ালী"
+   ],
+   "answer": 0,
+   "explain_bn": "এডিস ইজিপ্টাই মশা ডেঙ্গু ভাইরাস ছড়ায়।",
+   "attack_tag": "মশারিটা টানিয়ে রাখুন। ডেঙ্গু আপনার পদবি দেখে কামড়ায় না।",
+   "exam": {
+    "code": "BCS38",
+    "name_bn": "৩৮তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2017-12-29",
+    "type": "BCS",
+    "question_no": 141
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "33",
+    "pdf_page": 73
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS37-132",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "food_science",
+   "prompt": "ইস্টের সম্পৃক্ততা নেই কোন শিল্পে?",
+   "options": [
+    "মদ্য শিল্প",
+    "রুটি শিল্প",
+    "সাইট্রিক এসিড উৎপাদন",
+    "এক কোষীয় প্রোটিন তৈরিতে"
+   ],
+   "answer": 2,
+   "explain_bn": "সাইট্রিক এসিড মূলত ছত্রাক (যেমন Aspergillus) দিয়ে তৈরি হয়, ইস্ট দিয়ে নয়।",
+   "attack_tag": "রুটি ফোলে ইস্টে, আর পদবি ফোলে ফেসবুকে।",
+   "exam": {
+    "code": "BCS37",
+    "name_bn": "৩৭তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-09-30",
+    "type": "BCS",
+    "question_no": 132
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "56",
+    "pdf_page": 96
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS37-134",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "medicine",
+   "prompt": "মানবদেহে রোগ প্রতিরোধের প্রাথমিক প্রতিরক্ষাস্তরের (First line of defence) অন্তর্ভুক্ত নয় কোনটি?",
+   "options": [
+    "লাইসোজাইম (LYSOZYME)",
+    "গ্যাস্ট্রিক জুস (GASTRIC JUICE)",
+    "সিলিয়া (CILIA)",
+    "লিম্ফোসাইট (LYMPHOCYTES)"
+   ],
+   "answer": 3,
+   "explain_bn": "ত্বক, সিলিয়া, লাইসোজাইম আর পাকস্থলীর রস প্রথম স্তরে কাজ করে। লিম্ফোসাইট পরের স্তরের।",
+   "attack_tag": "আপনার প্রথম প্রতিরক্ষাস্তর হলো 'ব্লক' বাটন।",
+   "exam": {
+    "code": "BCS37",
+    "name_bn": "৩৭তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-09-30",
+    "type": "BCS",
+    "question_no": 134
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "56",
+    "pdf_page": 96
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS37-135",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "science",
+   "prompt": "নিচের কোনটি ভাইরাসের (VIRUS) জন্য সত্য নয়?",
+   "options": [
+    "ডিএনএ বা আরএনএ থাকে",
+    "শুধুমাত্র জীবদেহের অভ্যন্তরে সংখ্যাবৃদ্ধি করে",
+    "স্ফটিক দানায় রূপান্তরিত (CRYSTALIZATION)",
+    "রাইবোজোম (Ribosome) থাকে"
+   ],
+   "answer": 3,
+   "explain_bn": "ভাইরাসে রাইবোজোম থাকে না। তাই এরা পোষকের কোষ ছাড়া বংশবৃদ্ধি করতে পারে না।",
+   "attack_tag": "ভাইরাসের নিজের রাইবোজোম নেই, আপনার নিজের লাইসেন্স নেই। দুজনেই অন্যের ঘাড়ে চলেন।",
+   "exam": {
+    "code": "BCS37",
+    "name_bn": "৩৭তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-09-30",
+    "type": "BCS",
+    "question_no": 135
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "56",
+    "pdf_page": 96
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS30-6",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "medicine",
+   "prompt": "Anatomy শব্দের অর্থ—",
+   "options": [
+    "সাদৃশ্য",
+    "স্নায়ুতন্ত্র",
+    "শারীরবিদ্যা",
+    "অঙ্গ-সঞ্চালন"
+   ],
+   "answer": 2,
+   "explain_bn": "Anatomy মানে শারীরবিদ্যা বা অঙ্গব্যবচ্ছেদবিদ্যা।",
+   "attack_tag": "অ্যানাটমি ক্লাসটা কাঁথা সেলাইয়ের পিরিয়ডের সাথে মিলে গিয়েছিল বুঝি?",
+   "exam": {
+    "code": "BCS30",
+    "name_bn": "৩০তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2010-07-30",
+    "type": "BCS",
+    "question_no": 6
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "142",
+    "pdf_page": 181
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS36-9",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "law_terms",
+   "prompt": "'Null and Void'-এর বাংলা পরিভাষা কী?",
+   "options": [
+    "বাতিল",
+    "পালাবদল",
+    "মামুলি",
+    "নিরপেক্ষ"
+   ],
+   "answer": 0,
+   "explain_bn": "Null and Void মানে বাতিল বা আইনত অকার্যকর।",
+   "attack_tag": "আপনার সাইনবোর্ডের আইনি মর্যাদা দুই শব্দেই বলা যায়: Null and Void।",
+   "exam": {
+    "code": "BCS36",
+    "name_bn": "৩৬তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-01-08",
+    "type": "BCS",
+    "question_no": 9
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "65",
+    "pdf_page": 105
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS35-4",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "law_terms",
+   "prompt": "'Consumer goods'-এর উপযুক্ত বাংলা পরিভাষা কী?",
+   "options": [
+    "ভোক্তার কল্যাণ",
+    "ভোগ্যপণ্য",
+    "ক্রয়কৃত পণ্য",
+    "ক্রেতার গুণাগুণ"
+   ],
+   "answer": 1,
+   "explain_bn": "Consumer goods মানে ভোগ্যপণ্য।",
+   "attack_tag": "ভোগ্যপণ্যে মোড়কের লেখা আর ভেতরের জিনিস মিলতে হয়। সনদেও তাই।",
+   "exam": {
+    "code": "BCS35",
+    "name_bn": "৩৫তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2015-03-06",
+    "type": "BCS",
+    "question_no": 4
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "85",
+    "pdf_page": 124
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS37-15",
+   "bank": "bcs_attack",
+   "lang": "bn",
+   "topic": "law_terms",
+   "prompt": "'Custom' শব্দের পরিভাষা কোনটি যথার্থ?",
+   "options": [
+    "আইন",
+    "প্রথা",
+    "শুল্ক",
+    "রাজনীতি"
+   ],
+   "answer": 1,
+   "explain_bn": "এখানে Custom অর্থ প্রথা। Customs (বহুবচন) হলে শুল্ক।",
+   "attack_tag": "নামের আগে 'নিউট্রিশনিস্ট' বসানো একটা প্রথা হয়ে গেছে, আইন হয়নি।",
+   "exam": {
+    "code": "BCS37",
+    "name_bn": "৩৭তম বিসিএস প্রিলিমিনারি টেস্ট",
+    "date": "2016-09-30",
+    "type": "BCS",
+    "question_no": 15
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "43",
+    "pdf_page": 83
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS39S-91",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "'Geriatrics' is the branch of medicine concerned with the diseases and care of—",
+   "options": [
+    "newly-weds",
+    "old women",
+    "newborn babies",
+    "old people"
+   ],
+   "answer": 3,
+   "explain_bn": "Geriatrics হলো বয়স্কদের চিকিৎসাবিদ্যা। শিশুদের জন্য Pediatrics।",
+   "attack_tag": "বয়স্কদের চিকিৎসা জেরিয়াট্রিক্স। বয়স্কদের ফরোয়ার্ড করা ডায়েট মেসেজ জেরিয়াট্রিক্স নয়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 91
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "12",
+    "pdf_page": 52
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": ""
+   }
+  },
+  {
+   "id": "BCS39S-101",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Cardiogenic shock may be due to:",
+   "options": [
+    "Hypovolumia",
+    "Neurogenic",
+    "Pump failure",
+    "Infection"
+   ],
+   "answer": 2,
+   "explain_bn": "হৃদপিণ্ড ঠিকমতো রক্ত পাম্প করতে না পারলে কার্ডিওজেনিক শক হয়।",
+   "attack_tag": "হৃদপিণ্ডের পাম্প বিকল হলে লেবু পানি দিয়ে চালু হয় না।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 101
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-102",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "'Ghon Focus' is situated in:",
+   "options": [
+    "Peritoneum",
+    "Lung",
+    "Pleura",
+    "Pericardium"
+   ],
+   "answer": 1,
+   "explain_bn": "প্রাথমিক যক্ষ্মার ঘন ফোকাস (Ghon focus) ফুসফুসে থাকে।",
+   "attack_tag": "ঘন ফোকাস ফুসফুসে থাকে। আপনার ফোকাস থাকে ফলোয়ার সংখ্যায়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 102
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-104",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Which of the following condition is not precancerous?",
+   "options": [
+    "Cervical dysplasia",
+    "Glycogen storage disease",
+    "Solar keratosis of skin",
+    "Ulcerative colitis"
+   ],
+   "answer": 1,
+   "explain_bn": "গ্লাইকোজেন স্টোরেজ ডিজিজ একটি বিপাকজনিত রোগ, প্রিক্যান্সারাস অবস্থা নয়।",
+   "attack_tag": "প্রিক্যান্সার চেনা বায়োপসির কাজ, ইনস্টাগ্রাম রিলের নয়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 104
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-107",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "The value of lung tidal volume is:",
+   "options": [
+    "500 ml",
+    "5000 ml",
+    "1500 ml",
+    "2000 ml"
+   ],
+   "answer": 0,
+   "explain_bn": "স্বাভাবিক শ্বাসে প্রাপ্তবয়স্কের টাইডাল ভলিউম প্রায় ৫০০ মিলি।",
+   "attack_tag": "এক নিঃশ্বাসে ৫০০ মিলি বাতাস যায়। এক পোস্টে ৫০০টা ভুল যায়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 107
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-108",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Mycobacterium leprae has special predilection for:",
+   "options": [
+    "Schwann cells",
+    "Dorsal root ganglion",
+    "Epithelium",
+    "Lymphatics"
+   ],
+   "answer": 0,
+   "explain_bn": "কুষ্ঠের জীবাণু স্নায়ুর শোয়ান কোষে বাসা বাঁধে।",
+   "attack_tag": "জীবাণুরও নির্দিষ্ট ঠিকানা থাকে। আপনার পদবির থাকে না।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 108
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-109",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Which of the following occurs during reverse transcriptase polymerase chain reaction?",
+   "options": [
+    "Used to amplify DNA",
+    "RNA is converted to DNA",
+    "Proteins are converted to DNA",
+    "DNA is converted to RNA"
+   ],
+   "answer": 1,
+   "explain_bn": "RT-PCR-এ প্রথমে RNA থেকে cDNA তৈরি করা হয়।",
+   "attack_tag": "রিভার্স ট্রান্সক্রিপশন মানে RNA থেকে DNA। রিভার্স ব্র্যান্ডিং মানে Home Economics থেকে 'Clinical'।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 109
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-111",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "The drug of choice for cerebral malaria is:",
+   "options": [
+    "Oral doxycycline",
+    "Combination of sulphametoxazole and pyremethamine",
+    "Oral quinine",
+    "Injectable artesunat"
+   ],
+   "answer": 3,
+   "explain_bn": "মারাত্মক বা সেরিব্রাল ম্যালেরিয়ায় প্রথম পছন্দ ইনজেকশন আর্টিসুনেট।",
+   "attack_tag": "সেরিব্রাল ম্যালেরিয়ায় আর্টিসুনেট লাগে। নিমপাতার ফেসপ্যাক নয়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 111
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-114",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Mutable risk factor of hypertension is:",
+   "options": [
+    "sex",
+    "Family history",
+    "Age",
+    "Smoking"
+   ],
+   "answer": 3,
+   "explain_bn": "ধূমপান বদলানো যায়। লিঙ্গ, বয়স আর পারিবারিক ইতিহাস বদলানো যায় না।",
+   "attack_tag": "ধূমপান ছাড়া যায়, সনদের নাম বদলানো যায় না। তবু চেষ্টা থেমে নেই।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 114
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-117",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Abnormal constituent of urine is:",
+   "options": [
+    "Disodium mono hydrogen phosphate",
+    "Albumin",
+    "Creatinine",
+    "Urea"
+   ],
+   "answer": 1,
+   "explain_bn": "প্রস্রাবে অ্যালবুমিন পাওয়া কিডনি সমস্যার লক্ষণ।",
+   "attack_tag": "প্রস্রাবে অ্যালবুমিন থাকলে নেফ্রোলজিস্টের কাছে যান, 'ডিটক্স কোচ'-এর কাছে নয়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 117
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-120",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Elastic cartilage is not found in:",
+   "options": [
+    "Auricle of ear",
+    "Epiphyseal plate of bone",
+    "Auditory tube",
+    "Epiglottis"
+   ],
+   "answer": 1,
+   "explain_bn": "এপিফাইসিয়াল প্লেটে হায়ালিন কার্টিলেজ থাকে, ইলাস্টিক কার্টিলেজ নয়।",
+   "attack_tag": "কানে ইলাস্টিক কার্টিলেজ আছে। আপনার যুক্তিতে কোনো ইলাস্টিসিটি নেই।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 120
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-121",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Serum sodium level is:",
+   "options": [
+    "135-145 mmol/L",
+    "145-155 mmol/L",
+    "130-140 mmol/L",
+    "125-140 mmol/L"
+   ],
+   "answer": 0,
+   "explain_bn": "রক্তে সোডিয়ামের স্বাভাবিক মাত্রা ১৩৫–১৪৫ mmol/L।",
+   "attack_tag": "পিংক সল্টেও সোডিয়াম থাকে। রঙ গোলাপি হলে লবণ অনুপ্রেরণামূলক হয়ে যায় না।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 121
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "13",
+    "pdf_page": 53
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-128",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Prednisolone 5 mg is equivalent to:",
+   "options": [
+    "Dexamethasone 2mg",
+    "Dexamethasone 8mg",
+    "Hydrocortisone 40mg",
+    "Hydrocortisone 20mg"
+   ],
+   "answer": 3,
+   "explain_bn": "প্রেডনিসোলোন ৫ মিগ্রা প্রায় হাইড্রোকর্টিসোন ২০ মিগ্রার সমান।",
+   "attack_tag": "স্টেরয়েডের ডোজ হিসাব ফার্মাকোলজির কাজ। আপনার চার্টে লেখা 'আন্দাজমতো'।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 128
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-129",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "In adult, the daily loss of fluid in the feces, normally is:",
+   "options": [
+    "150 ml",
+    "200 ml",
+    "50 ml",
+    "100 ml"
+   ],
+   "answer": 3,
+   "explain_bn": "প্রাপ্তবয়স্কের মলের সাথে দিনে প্রায় ১০০ মিলি পানি বের হয়।",
+   "attack_tag": "দিনে ১০০ মিলি পানি মলের সাথে যায়, আর ১০০% যুক্তি যায় আপনার কমেন্টে।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 129
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-130",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Which one of the following is a source of pulmonary embolism?",
+   "options": [
+    "Deep veins of leg",
+    "Iliac arteries",
+    "Mesentoric vein",
+    "Postal vein"
+   ],
+   "answer": 0,
+   "explain_bn": "পালমোনারি এমবোলিজমের রক্তপিণ্ড সাধারণত পায়ের গভীর শিরা (DVT) থেকে আসে।",
+   "attack_tag": "পায়ের শিরার রক্তপিণ্ড ফুসফুসে যায়। আপনার পোস্ট যায় সবার নিউজফিডে। দুটোই বিপজ্জনক।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 130
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-132",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Extracellular structural protein is:",
+   "options": [
+    "Tubulin",
+    "Gastrin",
+    "Elastin",
+    "Keratin"
+   ],
+   "answer": 2,
+   "explain_bn": "ইলাস্টিন কোষের বাইরের কাঠামোগত প্রোটিন।",
+   "attack_tag": "ইলাস্টিন টানলে আবার আগের জায়গায় ফেরে। আপনার পদবি টানলে ফেরে না।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 132
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-133",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Main seat of peripheral resistance is:",
+   "options": [
+    "Venule",
+    "Capillary",
+    "Arteriole",
+    "Metaarteriole"
+   ],
+   "answer": 2,
+   "explain_bn": "পেরিফেরাল রেজিস্ট্যান্সের প্রধান জায়গা আর্টেরিওল।",
+   "attack_tag": "আর্টেরিওলের রেজিস্ট্যান্স রক্তচাপ ঠিক রাখে। আমার রেজিস্ট্যান্স ঠিক রাখে আইন।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 133
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-134",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Commonest cause of hepatic cirrhosis in Bangladesh is:",
+   "options": [
+    "HCV",
+    "HEV",
+    "HAV",
+    "HBV"
+   ],
+   "answer": 3,
+   "explain_bn": "বাংলাদেশে লিভার সিরোসিসের প্রধান কারণ হেপাটাইটিস-বি।",
+   "attack_tag": "লিভার সিরোসিসের প্রধান কারণ HBV, করলার জুস না খাওয়া নয়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 134
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-137",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Which one of the following is responsible for carpal tunnel syndrome?",
+   "options": [
+    "Median nerve compression",
+    "Radial nerve compression",
+    "Axillary nerve compression",
+    "Ulnar nerve compression"
+   ],
+   "answer": 0,
+   "explain_bn": "কব্জির কার্পাল টানেলে মিডিয়ান স্নায়ুতে চাপ পড়লে এই সিনড্রোম হয়।",
+   "attack_tag": "দিনে ৫০টা 'পুষ্টি টিপস' টাইপ করলে কার্পাল টানেল হতে পারে। তখন ডাক্তার দেখাবেন।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 137
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-140",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Signs of upper motor neuron lesion include all except:",
+   "options": [
+    "Loss of all reflexes",
+    "Planter response extensor",
+    "Weakness or paralysis of limb",
+    "Hypertonia of muscles"
+   ],
+   "answer": 0,
+   "explain_bn": "আপার মোটর নিউরন লেশনে রিফ্লেক্স বাড়ে, সব রিফ্লেক্স হারায় না।",
+   "attack_tag": "আপার মোটর নিউরন গেলে রিফ্লেক্স বাড়ে। আপনার রিফ্লেক্স হলো রেগে গিয়ে স্ক্রিনশট নেওয়া।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 140
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-142",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Which of the following types of shock is caused by failure of the heart to pump effectively?",
+   "options": [
+    "Hypovolemic shock",
+    "Anaphylactic shock",
+    "Septic shock",
+    "Cardiogenic shock"
+   ],
+   "answer": 3,
+   "explain_bn": "হৃদপিণ্ড কার্যকরভাবে পাম্প না করলে কার্ডিওজেনিক শক হয়।",
+   "attack_tag": "একই প্রশ্ন দুবার এল, তবু আপনি ভুল করলেন। এটাকেই বলে ক্লিনিক্যাল কনসিস্টেন্সি।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 142
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-143",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "During accommodation reaction there is:",
+   "options": [
+    "Increase in transeqverse diameter of lens",
+    "Contraction of ciliary muscle",
+    "Constriction of pupil by sympathetic nerve",
+    "Contraction of suspensory ligament"
+   ],
+   "answer": 1,
+   "explain_bn": "কাছের জিনিস দেখতে সিলিয়ারি পেশি সংকুচিত হয় এবং লেন্স আরও গোল হয়।",
+   "attack_tag": "কাছের জিনিস দেখতে চোখ মানিয়ে নেয়। সনদের ছোট অক্ষর দেখতে আপনার চোখ রাজি হয় না।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 143
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-144",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Which one of the following acts as anti oxidant?",
+   "options": [
+    "Hydrozen per oxide",
+    "Hypochlorous acid",
+    "Ceroloplasmin",
+    "Ionizing radiation"
+   ],
+   "answer": 2,
+   "explain_bn": "সেরুলোপ্লাজমিন রক্তের একটি অ্যান্টিঅক্সিডেন্ট প্রোটিন।",
+   "attack_tag": "অ্যান্টিঅক্সিডেন্ট মানে সেরুলোপ্লাজমিন। ২০০০ টাকার 'অ্যান্টিঅক্সিডেন্ট চা' নয়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 144
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-146",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Smooth muscle is found in:",
+   "options": [
+    "Wall of blood vessel",
+    "Tongue",
+    "Soft palate",
+    "Diaphargm"
+   ],
+   "answer": 0,
+   "explain_bn": "রক্তনালির দেয়ালে মসৃণ পেশি থাকে। জিহ্বা আর ডায়াফ্রাম কঙ্কাল পেশি।",
+   "attack_tag": "মসৃণ পেশি থাকে রক্তনালিতে। মসৃণ কথা থাকে বিজ্ঞাপনে।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 146
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  },
+  {
+   "id": "BCS39S-148",
+   "bank": "bcs_attack",
+   "lang": "en",
+   "topic": "medicine",
+   "prompt": "Erythroblastosis fetalis may develop when:",
+   "options": [
+    "Rh (+) mother carries Rh (+) fetus",
+    "Rh (-) mother carries Rh (-) fetus",
+    "Rh (+) mother carries Rh (-) fetus",
+    "Rh (-) mother carries Rh (+) fetus"
+   ],
+   "answer": 3,
+   "explain_bn": "Rh-নেগেটিভ মায়ের গর্ভে Rh-পজিটিভ শিশু থাকলে এটি হতে পারে।",
+   "attack_tag": "গর্ভাবস্থার ঝুঁকি দেখবেন অবস্টেট্রিশিয়ান। আপনার 'প্রেগন্যান্সি ডায়েট প্যাকেজ' নয়।",
+   "exam": {
+    "code": "BCS39S",
+    "name_bn": "৩৯তম বিসিএস (বিশেষ) — স্বাস্থ্য ক্যাডার, এমসিকিউ লিখিত",
+    "date": "2018-08-03",
+    "type": "BCS_SPECIAL",
+    "question_no": 148
+   },
+   "source": {
+    "book": "Professor's Job Solution (New Edition 2019, Professor's Prokashon)",
+    "page": "14",
+    "pdf_page": 54
+   },
+   "verification": {
+    "status": "verified_past_paper",
+    "method": "বইয়ের উত্তরমালা + স্বতন্ত্র বিষয়ভিত্তিক যাচাই (দুটো মিলেছে)",
+    "checked_on": "2026-11-19",
+    "notes": "প্রশ্ন ও বিকল্প বইয়ের ছাপা বানানেই রাখা (যেমন 'Hypovolumia', 'artesunat')।"
+   }
+  }
+ ]
+}

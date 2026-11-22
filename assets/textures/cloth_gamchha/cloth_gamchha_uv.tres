@@ -1,0 +1,19 @@
+[gd_resource type="StandardMaterial3D" load_steps=5 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/textures/cloth_gamchha/cloth_gamchha_albedo.png" id="1_alb"]
+[ext_resource type="Texture2D" path="res://assets/textures/cloth_gamchha/cloth_gamchha_normal.png" id="2_nrm"]
+[ext_resource type="Texture2D" path="res://assets/textures/cloth_gamchha/cloth_gamchha_roughness.png" id="3_rgh"]
+[ext_resource type="Texture2D" path="res://assets/textures/cloth_gamchha/cloth_gamchha_ao.png" id="4_ao"]
+
+[resource]
+resource_name = "cloth_gamchha_uv"
+texture_filter = 5
+albedo_texture = ExtResource("1_alb")
+roughness = 1.0
+roughness_texture = ExtResource("3_rgh")
+normal_enabled = true
+normal_scale = 1.0
+normal_texture = ExtResource("2_nrm")
+ao_enabled = true
+ao_light_affect = 0.35
+ao_texture = ExtResource("4_ao")

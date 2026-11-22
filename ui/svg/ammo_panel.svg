@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="72" viewBox="0 0 300 72">
+  <!-- Throwables / ammo counter. The icon slot circle is at (40,36); pips go from x 84. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b0f14" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#0b0f14" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="slot" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#ffb627" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffb627" stop-opacity="0.04"/>
+    </radialGradient>
+  </defs>
+  <path d="M14 6 H292 L278 66 H0 Z" fill="url(#bg)"/>
+  <path d="M14 6 H180" stroke="#ffb627" stroke-width="2" stroke-opacity="0.8"/>
+  <circle cx="40" cy="36" r="24" fill="url(#slot)" stroke="#ffb627" stroke-opacity="0.7" stroke-width="2"/>
+  <circle cx="40" cy="36" r="28" fill="none" stroke="#ffb627" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="3 5"/>
+</svg>

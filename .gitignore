@@ -1,0 +1,18 @@
+# Godot
+.godot/
+*.import
+*.translation
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Builds
+*.exe
+*.apk
+*.pck
+*.zip
+
+# Temp
+*.tmp
+*.log

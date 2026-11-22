@@ -1,0 +1,776 @@
+[
+ {
+  "category": "agua",
+  "file": "agua__barragem_subterranea.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__bomba_agua.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__caixa_dagua.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__centro_controle_perdas.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__centro_pesquisa_agua.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__estacao_filtragem.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__estacao_monitoramento.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__eta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__ete.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__jardim_chuva.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__jardim_flutuante.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__monitor_qualidade_agua.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__poco_artesiano.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__reservatorio.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__usina_dessalinizacao.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "agua",
+  "file": "agua__usina_reuso_agua.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "beira_rio",
+  "file": "beira_rio__barco_pesca.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "beira_rio",
+  "file": "beira_rio__boia_rio.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "beira_rio",
+  "file": "beira_rio__canoa.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "beira_rio",
+  "file": "beira_rio__capivara.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "beira_rio",
+  "file": "beira_rio__garca.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "beira_rio",
+  "file": "beira_rio__trapiche.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "comercial",
+  "file": "comercial__banco.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "comercial",
+  "file": "comercial__escritorio.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "comercial",
+  "file": "comercial__hotel.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "comercial",
+  "file": "comercial__loja_esquina.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "comercial",
+  "file": "comercial__mercado.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "comercial",
+  "file": "comercial__posto_recarga.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "comercial",
+  "file": "comercial__restaurante.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "comercial",
+  "file": "comercial__shopping.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__biodigestor.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__hidreletrica.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__parque_eolico.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__poste_energia.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__termeletrica.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__usina_biomassa.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__usina_cana.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__usina_carvao.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__usina_mare.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__usina_nuclear.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "energia",
+  "file": "energia__usina_solar.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "industrial",
+  "file": "industrial__fabrica.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "industrial",
+  "file": "industrial__galpao.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "industrial",
+  "file": "industrial__oficina.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "industrial",
+  "file": "industrial__porto.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__banco_praca.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__barril_chuva.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__bebedouro.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__bicicletario.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__cerca_madeira.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__cisterna.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__hidrante.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__lixeira.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__lixeira_seletiva.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__orelhao.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__parquinho.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__placa_educativa.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__placa_pare.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__ponto_onibus.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__poste_luz.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__poste_solar.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__quiosque.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__semaforo.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__semaforo_pedestre.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "mobiliario",
+  "file": "mobiliario__vaso_planta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "parques",
+  "file": "parques__ecoparque.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "parques",
+  "file": "parques__parede_verde.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "parques",
+  "file": "parques__parque.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "parques",
+  "file": "parques__parque_linear.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "parques",
+  "file": "parques__telhado_verde.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__biblioteca.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__bombeiros.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__centro_pesquisa.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__centro_tecnologia.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__escola.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__hospital.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__monumento.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__museu.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__policia.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__posto_saude.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__prefeitura.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "publicos",
+  "file": "publicos__universidade.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residencial",
+  "file": "residencial__casa_simples.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residencial",
+  "file": "residencial__casa_sobrado.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residencial",
+  "file": "residencial__casas_geminadas.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residencial",
+  "file": "residencial__predio_alto.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residencial",
+  "file": "residencial__predio_apartamentos.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residuos",
+  "file": "residuos__aterro_sanitario.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residuos",
+  "file": "residuos__cooperativa_reciclagem.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residuos",
+  "file": "residuos__patio_compostagem.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "residuos",
+  "file": "residuos__ponto_coleta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__asfalto_cruzamento.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__asfalto_curva.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__asfalto_faixa_pedestre.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__asfalto_ponta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__asfalto_reta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__asfalto_t.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__calcada.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__estacionamento.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__ponte.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__praca.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__terra_curva.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "ruas",
+  "file": "ruas__terra_reta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__agua.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__areia.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__arvores_mata.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__grama.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__margem_canto.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__margem_reta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__morro.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__rampa.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "terreno",
+  "file": "terreno__terra.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "vegetacao",
+  "file": "vegetacao__araucaria.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "vegetacao",
+  "file": "vegetacao__arbustos.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "vegetacao",
+  "file": "vegetacao__buriti.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "vegetacao",
+  "file": "vegetacao__composteira.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "vegetacao",
+  "file": "vegetacao__horta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "vegetacao",
+  "file": "vegetacao__ipe_amarelo.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "vegetacao",
+  "file": "vegetacao__pedras.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__ambulancia.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__bicicleta.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__caminhao.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__caminhao_bombeiros.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__caminhao_lixo.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__caminhao_pipa.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__carro.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__carro_eletrico.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__onibus.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ },
+ {
+  "category": "veiculos",
+  "file": "veiculos__taxi.glb",
+  "source": "https://github.com/kayquer/kit-cidade-lowpoly",
+  "license": "CC0-1.0"
+ }
+]
